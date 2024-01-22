@@ -9,7 +9,7 @@
 
   Despite these objections, the government intervention is essential in some segments of the market and can render more resistance to citizens. Single parents, the people with disabilities and other disadvantaged pepople are among those who are not ready to afford commercial housing. The government can provide them either with housing allowance to purchase their private properties or directly with economical houses.
 
-  As indicated above, in addressiang homelessness and inadequate housing, the joint effort of both government and private sector is required. While government intervention would impede the property market and negatively influence the supply and demand relationship, the government assistance is essential for low-income families and vulnerable individuals in need of housing.
+  As indicated above, in addressing homelessness and inadequate housing, the joint effort of both government and private sector is required. While government intervention would impede the property market and negatively influence the supply and demand relationship, the government assistance is essential for low-income families and vulnerable individuals in need of housing.
 
 | vocabulary | Meaning | Collocation |
 | ---------- | ------- | ----------- |
@@ -17,6 +17,10 @@
 | hamper | to prevent somebody from easily doing or achieving something | | 
 | foster | to encourage something to develop | | 
 | at the mercy of somebody/something | not able to stop somebody/something harming you because they have power or control over you | | 
+| monotonous | never changing and therefore boring | 
+| uniformity | the fact of not varying and of being the same in all parts and at all times | | 
+| render | cause somebody/something to be something | 
+| impede | to delay or stop the progress of something | 
 
 -----
 
