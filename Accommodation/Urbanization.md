@@ -7,7 +7,7 @@
 
 The ideas of putting visual art forms in the residential areas seems to be ... as those public arts servve as nothing but money-making attractions for 
 
-Another point worth mentioning is that the shortage of accommodations to feed the increasing population nowadays would make the idea of art displays become more .... 
+Another point worth mentioning is that the shortage of accommodations to feed the increasing population nowadays would make the idea of art displays become more 
 - 
 
 
