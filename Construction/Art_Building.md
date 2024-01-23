@@ -4,9 +4,10 @@
 
 #### 1. Housing Shortage
 
-Another objection to this idea is that the housing capacity and other facilties of cities to support the increasing population nowadays seems to be threatened by the encroachments of public arts. In fact, the accelerating settlements of people within the cities now, or in the near future, lead to first the overpopulation, later the housing shortages. The needs of consutrcting more accommodations to provide adequate shelter should be prioritized in association with other public facilities, such as schools, hospitals, bus stops, and so on, in order to maintaining the living standards of citizens. The display of public arts without planning, in this sense, may hamper the government from fulfilling the necessary functionality of the whole city. 
+  Another objection to this idea is that the housing capacity and other facilties of cities to support the increasing population nowadays seems to be threatened by the encroachments of public arts. The booming settlements of people within cities, now or in the near future, may first lead to overpopulation, later the housing shortages. In this sense, constructing more accommodations to provide adequate shelter should be prioritized in accordance with other public facilities, such as schools, hospitals, bus stops, and so on, in order to maintain the living standards of citizens. The display of public arts without planning, in this sense, may hamper the government from fulfilling the necessary functionality of the whole city. 
 
-#### 2. Values
+ 
+#### 2. Values (aesthetical // historical // educational // ...) 
 the dispayment of public art is more complicated than it seem to be when it depends much on the context, history, and norms associated with communities. In some cases, putting those visual art forms in the public areas without considerating those criterias would make them become more meaningless than what they are expect to be. It is not to say that those consutrcting public arts may involve the government's sources, including land, human resource, and expenditures. 
 
 ___=> Thus, The indiscretion of displaying art works possess nothing but posing a burden upon the national budget.___
