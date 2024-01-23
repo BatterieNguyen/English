@@ -2,7 +2,7 @@
 
 
 
-### Sample
+### `Sample`
 
   Buildings, not very different from other commodities, perform various functions and serve varying needs of their users. At the cntre of the controversy is whether the purposes of a building should be placed above its aesthetical values. As far as I am concerned, these two qualities are not conflicting, but mutually beneficial.
 
