@@ -17,3 +17,4 @@
 
 | vocabulary | Meaning | Collocation |
 | ---------- | ------- | ----------- |
+| 
