@@ -1,6 +1,6 @@
-# Only government action can solve housing shortage in big cities. To what extent do you agree or disagree?
+### Only government action can solve housing shortage in big cities. To what extent do you agree or disagree?
 
-## Outcome
+### `Sample`
   Housing shortage has become a serious urban social issue in many parts of the world. It has been argued that only when the government has taken actions, can the demand for homes be fulfilled. Yet to the best of my knowledge, the government alone cannot cope well with housing shortages.
   
    One of the main objections to government intervention is that it would hamper the private sector and simultaneously, pose a huge burden upon the state. In countries where the government is on a tight budget and the homeless population is large, the involvement of private property developers is required and recommended. Not only does it release the governement from the burden of funding large-sized construction programmes but it also fosters the housing industry. Given its role in attracting public consumptions and accelerating economic development, the housing indsutry should be at the mercy of the market, rather than the government.
