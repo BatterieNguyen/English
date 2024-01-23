@@ -1,6 +1,6 @@
-# Some people suggest that the government should spend money putting more works of art like paintings and statues into towns and cities to make them attractive places. To what extent do you agree or disagree?
+### Some people suggest that the government should spend money putting more works of art like paintings and statues into towns and cities to make them attractive places. To what extent do you agree or disagree?
 
-## Braintorming
+### `Braintorming`
 
 ### 1. Housing Shortage
 
@@ -14,7 +14,7 @@ ___=> Thus, The indiscretion of displaying art works possess nothing but posing 
 In this sense, those public arts seems to possess no aesthetical values as it is expected to express.
 
 
-## Outcome
+### `Outcome`
 
 
 Before any considerations coming to housing art forms in the public space, 
@@ -24,5 +24,5 @@ The ideas of putting visual art forms in the residential areas seems to be unpra
 
 
 
-## Reference
+### `Reference`
 [Sample 1](https://howtodoielts.com/ielts-essay-public-art/#google_vignette)
