@@ -59,7 +59,7 @@ __Key Question__: Should people build new buildings in traditional style?
 
   From the points enlisted above, it seems obvious that atchitecture is an approach of preserving nation's cultural heritage, so new construction should be undertaken to adhere to a traditional style. Although it might not be reflected in all buildings, it does play a great part in maintaining and reinforcing cultural identity of a region or country.
 
-| vocabulary | Meaning |
+| vocabulary | Meaning | |
 | ---------- | ------- | ----------- |
 | integrity  | (formal) the state of being whole and not divided | to respect the ___territorial integrity___ of the nation |
 | impair     | (v) to damage something or make something worse |
