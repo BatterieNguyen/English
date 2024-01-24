@@ -45,7 +45,31 @@ The ideas of putting visual art forms in the residential areas seems to be unpra
 --------
 ## _Some people believe that new buildings should be built in traditional styles. To what extent do you agree or disagree with this opinion?_
 
+### `Break down idea`
 __Key Question__: Should people build new buildings in traditional style?
+
+__=>__ (Yes) I agree with their recommendation => cultural identity of a nation is prioritized. 
+
+* (What happens if new constructions do ___not follow the classical styles?___) New constructions => existing aged building and integrity of the cityscape => culture and characteristics of an area.
+  * (Concept) different culture lead to different styles of constructions.
+    * a ___growing___ recognition that architecture is an element that ___distinguishes one culture from another___
+    * buildings differ in styles from country to country.
+
+__=> If not aligned with the olds, the new buildings will impair the uniqueness of an architecture style.__ (= cultural identity)
+
+* (Why should we construct new buildings ___following classical style?___) => contribute to the diversity of building models.
+  * (Concept) some regions are noticed by preserving classical architecture => mingling of buildings (= diversity)
+  * (Example) Europe
+
+__=> (Benefit) bridge the past and the present history__ (maintain cultural identity) => __create modern identity as well.__
+
+* (___Not all___ buildings can follow classical styles)
+  * at odds with diversity
+  * Non-avaiable materials
+
+__=> Cannot apply on a large scale__
+
+
 
 ### `Sample`
 
@@ -53,7 +77,7 @@ __Key Question__: Should people build new buildings in traditional style?
 
   New constructions might not only cause direct damage to those existing aged buildings, which are central to a nation's culture, but also destroy the integrity of the cityscape, which characterizes a country. Over the past decades, there has been a growing recognition that architecture is an element that distinguishes one culture from another. That's why people are not surprised to see that buildings differ in styles from country to country. New constructions, if not aligned with the existing buildings, will impair the uniqueness of an architecture style, which has been widely regconized, studied and treasured by the world.
 
-  Another main justification for upholding a traditional building style is that is that it contributes to the diversity of building models in a country. By preserving classical architecture, some regions are marked by the mingling of buildings of different ages and types. Many cities in Europe can be cited as examples, where buildings in a traditional or ancient format coexist with modernized buildings, performing different functions and serving dissimilar purposes. It bridges the past and the present history and reminds people of the heritage of a country. It creates a modern identity of a region or country as well.
+  Another main justification for upholding a traditional building style is that it contributes to the diversity of building models in a country. By preserving classical architecture, some regions are marked by the mingling of buildings of different ages and types. Many cities in Europe can be cited as examples, where buildings in a traditional or ancient format coexist with modernized buildings, performing different functions and serving dissimilar purposes. It bridges the past and the present history and reminds people of the heritage of a country. It creates a modern identity of a region or country as well.
 
   Despite the role of old architecture works in retaining cultural heritage, not all the buildings should be necessarily designed and constructed in a traditional pattern. On the one hand it is at odds with diversity. It comes as no surprise that ceaseless pursuit of a classical style will result in the sameness of buildings in a country. On the other, traditional building models require specific craftmanship and building materials, which are neither affordable nor accessible to every developer, so they cannot applied on a large scale.
 
@@ -69,6 +93,6 @@ __Key Question__: Should people build new buildings in traditional style?
 | persuit    | (uncountable) the act of looking for or trying to get something | in pursuit of something |
 | adhere     | to stick to something | adhere to sth |
 | justification | a good reason why something exists or is done |
-| be at odds (with somebody) (over/on something)     | to disagree with somebody about something | odds (n) |
+| be at odds (with somebody) (over/on something) | to disagree with somebody about something | odds (n) |
 
 
