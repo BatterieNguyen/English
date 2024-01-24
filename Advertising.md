@@ -44,6 +44,13 @@ the rise of perfection over the realism → [according to the advertisers' wish 
 -----
 ## _The high sales of popular consumer good reflect the power of advertisisng but not the read need of the society where such products are sold. To What extent do you agree or disagree?_
 
+
+
+### `Sample`
+
+-----
+## _Do the positive effects outweigh negative effects, when advertising gains popularity?_
+
 ### `Break down Idea`
 (100% disagree) - Below are some arguments against this concern.
 * (Positive 1)  - adequate and accurate information about all alternatives avaiable
@@ -60,11 +67,6 @@ the rise of perfection over the realism → [according to the advertisers' wish 
 ___=> the effect of advertising will be countracted over time.___
 
 ### `Sample`
-
------
-## _Do the positive effects outweigh negative effects, when advertising gains popularity?_
-
-### `Sample`
  It has always been difficult to access the contribution of advertising. This issue is fraught with controvery, with concern being expressed over the harmful effects of advertising. Below are some arguments against this concern.
 
  It is important that one of the key functions of advertising is to supply consumers with adequate and accurate information about all of the alternatives avaiable to them. Every now and then, advertising is criticised on the ground that it can manipulate consumers to follow the will of the advertiser; however, evidence supports an oppsing view that advertising merely pomotes products that are most likely to satisfy customers' wants. In simple term, it is consumers rather advertisers who decide what are advertised.
@@ -78,4 +80,5 @@ ___=> the effect of advertising will be countracted over time.___
 | vocabulary | Meaning | Side Note |
 | ---------- | ------- | --------- |
 | fraught    | (adj) filled with something unpleasant | be fraught with sth |
+| inferior   | (adj, formal) of lower rank; lower | 
 
