@@ -59,15 +59,16 @@ __Key Question__: Should people build new buildings in traditional style?
 
   From the points enlisted above, it seems obvious that atchitecture is an approach of preserving nation's cultural heritage, so new construction should be undertaken to adhere to a traditional style. Although it might not be reflected in all buildings, it does play a great part in maintaining and reinforcing cultural identity of a region or country.
 
-| vocabulary | Meaning | |
-| ---------- | ------- | ----------- |
+| vocabulary | Meaning | Side Note |
+| ---------- | ------- | --------- |
 | integrity  | (formal) the state of being whole and not divided | to respect the ___territorial integrity___ of the nation |
 | impair     | (v) to damage something or make something worse |
-| justification | a good reason why something exists or is done |
 | uphold     | (v) to support something that you think is right and make sure that it continues to exist |
 | mingle     | (v, intransitive, transitive) to combine or make one thing combine with another | mingle sth ___with___ sth |
 | ceaseless  | (adj) not stopping; seeming to have no end | ~ constant / interminable |
 | persuit    | (uncountable) the act of looking for or trying to get something | in pursuit of something |
-| adhere     |  to stick to something | adhere to sth |
+| adhere     | to stick to something | adhere to sth |
+| justification | a good reason why something exists or is done |
+| be at odds (with somebody) (over/on something)     | to disagree with somebody about something | odds (n) |
 
 
