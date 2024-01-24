@@ -37,3 +37,21 @@ the rise of perfection over the realism → [according to the advertisers' wish 
 [under such advertising tactics] the advertised products appear to be a life-transforming chance for consumers with the implicit promise that they can transform into their enviable people. 
  [it comes as no surprise that] 
 [it is generally accepted as true]
+
+-----
+## _The society would benefit from a ban on all forms of advertising because it serves no useful purpose, and can even be damaging. Do you agree or disagree?_
+
+-----
+## _The high sales of popular consumer good reflect the power of advertisisng but not the read need of the society where such products are sold. To What extent do you agree or disagree?_
+
+### `Sample`
+
+-----
+## _Do the positive effects outweigh negative effects, when advertising gains popularity?_
+
+### `Sample`
+
+
+| vocabulary | Meaning | Side Note |
+| ---------- | ------- | --------- |
+
