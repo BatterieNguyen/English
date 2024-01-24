@@ -1,4 +1,4 @@
-### _Some people suggest that the government should spend money putting more works of art like paintings and statues into towns and cities to make them attractive places. To what extent do you agree or disagree?_
+## _Some people suggest that the government should spend money putting more works of art like paintings and statues into towns and cities to make them attractive places. To what extent do you agree or disagree?_
 
 ### `Braintorming`
 
@@ -43,3 +43,22 @@ The ideas of putting visual art forms in the residential areas seems to be unpra
 | ---------- | ------- | ----------- |
 | 
 --------
+## _Some people believe that new buildings should be built in traditional styles. To what extent do you agree or disagree with this opinion?_
+
+__Key Question__: Should people build new buildings in traditional style?
+
+### `Sample`
+
+  Architeture is an integral part of every single culture. Accordingly, some people suggest that new buildings should be constructed with a classical style, in an effort to protect a nation's cultural identity. I agree with their recommendation that maintaining a nation's cultural identity is a priority.
+
+  New constructions might not only cause direct damage to those existing aged buildings, which are central to a nation's culture, but also destroy the integrity of the cityscape, which characterizes a country. Over the past decades, there has been a growing recognition that architecture is an element that distinguishes one culture from another. That's why people are not surprised to see that buildings differ in styles from country to country. New constructions, if not aligned with the existing buildings, will impair the uniqueness of an architecture style, which has been widely regconized, studied and treasured by the world.
+
+  Another main justification for upholding a traditional building style is that is that it contributes to the diversity of building models in a country. By preserving classical architecture, some regions are marked by the mingling of buildings of different ages and types. Many cities in Europe can be cited as examples, where buildings in a traditional or ancient format coexist with modernized buildings, performing different functions and serving dissimilar purposes. It bridges the past and the present historym and reminds people of the heritage of a country. It creates a modern identity of a region or country as well.
+
+  Despite the role of old architecture works in retaining cultural heritage, not all the buildings should be necessarily designed and constructed in a traditional pattern. On the one hand it is at odds with diversity. It comes as no surprise that ceaseless pursuit of a classical style will result in the sameness of buildings in a country. On the other, traditional building models reuire specific craftmanship and building materials, which are neither affordable nor accessible to every developer, so they cannot applied on a large scale.
+
+  From the points enlisted above, it seems obvious that atchitecture is an approach og preserving nation's cultural heritage, so new construction should be undertaken to adhere to a traditional style. Although it might not be reflected in all buildings, it does play a great part in maintaining and reinforcing cultural identityof a region or country.
+
+| vocabulary | Meaning | Collocation |
+| ---------- | ------- | ----------- |
+| 
