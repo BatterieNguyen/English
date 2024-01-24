@@ -53,12 +53,21 @@ __Key Question__: Should people build new buildings in traditional style?
 
   New constructions might not only cause direct damage to those existing aged buildings, which are central to a nation's culture, but also destroy the integrity of the cityscape, which characterizes a country. Over the past decades, there has been a growing recognition that architecture is an element that distinguishes one culture from another. That's why people are not surprised to see that buildings differ in styles from country to country. New constructions, if not aligned with the existing buildings, will impair the uniqueness of an architecture style, which has been widely regconized, studied and treasured by the world.
 
-  Another main justification for upholding a traditional building style is that is that it contributes to the diversity of building models in a country. By preserving classical architecture, some regions are marked by the mingling of buildings of different ages and types. Many cities in Europe can be cited as examples, where buildings in a traditional or ancient format coexist with modernized buildings, performing different functions and serving dissimilar purposes. It bridges the past and the present historym and reminds people of the heritage of a country. It creates a modern identity of a region or country as well.
+  Another main justification for upholding a traditional building style is that is that it contributes to the diversity of building models in a country. By preserving classical architecture, some regions are marked by the mingling of buildings of different ages and types. Many cities in Europe can be cited as examples, where buildings in a traditional or ancient format coexist with modernized buildings, performing different functions and serving dissimilar purposes. It bridges the past and the present history and reminds people of the heritage of a country. It creates a modern identity of a region or country as well.
 
-  Despite the role of old architecture works in retaining cultural heritage, not all the buildings should be necessarily designed and constructed in a traditional pattern. On the one hand it is at odds with diversity. It comes as no surprise that ceaseless pursuit of a classical style will result in the sameness of buildings in a country. On the other, traditional building models reuire specific craftmanship and building materials, which are neither affordable nor accessible to every developer, so they cannot applied on a large scale.
+  Despite the role of old architecture works in retaining cultural heritage, not all the buildings should be necessarily designed and constructed in a traditional pattern. On the one hand it is at odds with diversity. It comes as no surprise that ceaseless pursuit of a classical style will result in the sameness of buildings in a country. On the other, traditional building models require specific craftmanship and building materials, which are neither affordable nor accessible to every developer, so they cannot applied on a large scale.
 
-  From the points enlisted above, it seems obvious that atchitecture is an approach og preserving nation's cultural heritage, so new construction should be undertaken to adhere to a traditional style. Although it might not be reflected in all buildings, it does play a great part in maintaining and reinforcing cultural identityof a region or country.
+  From the points enlisted above, it seems obvious that atchitecture is an approach of preserving nation's cultural heritage, so new construction should be undertaken to adhere to a traditional style. Although it might not be reflected in all buildings, it does play a great part in maintaining and reinforcing cultural identity of a region or country.
 
-| vocabulary | Meaning | Collocation |
+| vocabulary | Meaning |
 | ---------- | ------- | ----------- |
-| 
+| integrity  | (formal) the state of being whole and not divided | to respect the ___territorial integrity___ of the nation |
+| impair     | (v) to damage something or make something worse |
+| justification | a good reason why something exists or is done |
+| uphold     | (v) to support something that you think is right and make sure that it continues to exist |
+| mingle     | (v, intransitive, transitive) to combine or make one thing combine with another | mingle sth ___with___ sth |
+| ceaseless  | (adj) not stopping; seeming to have no end | ~ constant / interminable |
+| persuit    | (uncountable) the act of looking for or trying to get something | in pursuit of something |
+| adhere     |  to stick to something | adhere to sth |
+
+
