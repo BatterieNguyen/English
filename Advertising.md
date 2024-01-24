@@ -44,14 +44,38 @@ the rise of perfection over the realism → [according to the advertisers' wish 
 -----
 ## _The high sales of popular consumer good reflect the power of advertisisng but not the read need of the society where such products are sold. To What extent do you agree or disagree?_
 
+### `Break down Idea`
+(100% disagree) - Below are some arguments against this concern.
+* (Positive 1)  - adequate and accurate information about all alternatives avaiable
+  * (Concession) - manupulate consumers to follow the will of the advertiser
+    * (However)  - advertiser aim to satisfy the wants of consumers
+    * ___=> It is consumers, not advertisers, decide what to be advertised.___
+* (Positive 2) - foster full emplyment and facilitate the economic well-being
+  * (Concept)  - speed the consumers' acceptance of new goods and technologies
+    * ___=> high turnover rate and then sustainability of a business___
+    * ___=> (not to say) - a main sponsor for other industries___
+* (Counter-argument) - misleading the public
+  * (However) - solve the problem by itself ( = popularity) => make customers become knowledgeable
+
+___=> the effect of advertising will be countracted over time.___
+
 ### `Sample`
 
 -----
 ## _Do the positive effects outweigh negative effects, when advertising gains popularity?_
 
 ### `Sample`
+ It has always been difficult to access the contribution of advertising. This issue is fraught with controvery, with concern being expressed over the harmful effects of advertising. Below are some arguments against this concern.
 
+ It is important that one of the key functions of advertising is to supply consumers with adequate and accurate information about all of the alternatives avaiable to them. Every now and then, advertising is criticised on the ground that it can manipulate consumers to follow the will of the advertiser; however, evidence supports an oppsing view that advertising merely pomotes products that are most likely to satisfy customers' wants. In simple term, it is consumers rather advertisers who decide what are advertised.
+
+ Advertising also plays a significant role in fostering full employment and facilitating economic well-being. By conveying marketing information constantly to the target audience, advertising speeds manufactured good and therefore, sustainability of a business. It is also agreed that advertising is one of the main sponsors of a large number of other industries, for example, the entertainment industry m particularly sports, music, and theatrical events.
+
+ Urguably, advertising is criticised every now and then for misleading the public. However, the rapid development of advertising itself has provided a solution to this problem, as the information delivered to the audiences has mde them knowledgable consumers. Under this circumstance, they can easily distinguish inferior products from quality products with their knowledge. The misleading effect of advertising will be counteracted over time.
+
+ To summarize, advertising suggets what conssumers need and contribute partly to economic development. In this sense, advertising is of great value to people and the society. The general perception of advertising as a source of misleading information is in fact a bias. 
 
 | vocabulary | Meaning | Side Note |
 | ---------- | ------- | --------- |
+| fraught    | (adj) filled with something unpleasant | be fraught with sth |
 
