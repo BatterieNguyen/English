@@ -94,7 +94,7 @@ ___=> the effect of advertising will be countracted over time.___
 
  Advertising also plays a significant role in fostering full employment and facilitating economic well-being. By conveying marketing information constantly to the target audience, advertising speeds manufactured good and therefore, sustainability of a business. It is also agreed that advertising is one of the main sponsors of a large number of other industries, for example, the entertainment industry m particularly sports, music, and theatrical events.
 
- Urguably, advertising is criticised every now and then for misleading the public. However, the rapid development of advertising itself has provided a solution to this problem, as the information delivered to the audiences has mde them knowledgable consumers. Under this circumstance, they can easily distinguish inferior products from quality products with their knowledge. The misleading effect of advertising will be counteracted over time.
+ Urguably, advertising is criticised every now and then for misleading the public. However, the rapid development of advertising itself has provided a solution to this problem, as the information delivered to the audiences has made them knowledgable consumers. Under this circumstance, they can easily distinguish inferior products from quality products with their knowledge. The misleading effect of advertising will be counteracted over time.
 
  To summarize, advertising suggets what conssumers need and contribute partly to economic development. In this sense, advertising is of great value to people and the society. The general perception of advertising as a source of misleading information is in fact a bias. 
 
@@ -102,6 +102,8 @@ ___=> the effect of advertising will be countracted over time.___
 | ---------- | ------- | --------- |
 | fraught    | (adj) filled with something unpleasant | be fraught with sth |
 | inferior   | (adj, formal) of lower rank; lower | 
+| mislead    | to give somebody the wrong idea or impression and make them believe something that is not true | mislead sb into sth |
+
 
 -----
 
