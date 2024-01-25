@@ -5,6 +5,9 @@
 ## `1. Some people think that too much attention and too many resources are given to the protection of wild animals and birds. Do you agree or disagree?` (26/02/2022)
 
 
+Wildlife has far-reaching effects // profound effects on human life and even in the future, their role still cannot be denied.
+
+Proven in many scientific researches, there is a concrete link between the flourishing wildlife and the well-being of humanity.
 
 
 -----
