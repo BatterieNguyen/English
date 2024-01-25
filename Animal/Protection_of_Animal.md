@@ -45,7 +45,11 @@ Vocabulary | Meaning | Side Note
 
   Animals, as a significant part of an ecosystem, have profound impacts on the sustainability of an ecosystem and on the well-being of humanity. All animals are connected in one way or another in food chains. For this reason, the demise of a species can lead to overpopulation or underpopulation of another species and then put this species at the verge of extinction. The natural balance will be disrupted and the ecosystem cannot be sustained. It would disable vegetation from purifying water, recycling nutrient and pollinating crops. We humans are eventually affected.
 
-  Another justification for animal protection is that animals play a significant role in the development of industries, as an important natural resource. People derive substances and materials from animals for different purposes. A typical example is that animals provide essential substances for drug-making . It is also very common that designers and engineers turn to wildlife for inspiration. For 
+  Another justification for animal protection is that animals play a significant role in the development of industries, as an important natural resource. People derive substances and materials from animals for different purposes. A typical example is that animals provide essential substances for drug-making . It is also very common that designers and engineers turn to wildlife for inspiration. For instance, the invention of water-proof clothing drew upon the research on sharks.
+
+  On account of those benefits, wildlife protection is a significant strategy that has far-reaseching effects on the future of human. However, when implemented, this strategy should be adapted in different contexts. It should be noted that spending money simply on animals is not the approach that promises the best outcomes in all circumstance. For example, in those regions where inhabitants struggle with weak economies and have a few job sources, direct spending on any animal program would not stop people from hunting and trading animals for living. An alternative strategy is creating jobs or providing subsidies, lifting these regions out of poverty.
+
+  From what has been discussed , animals are key components of the whole natural order and have relevance to the sustainability of an ecosystem and the interests of humanity. Animal protection is a strategy that applies to the whole world, and might vary in different circumstances.
 
 
 Vocabulary | Meaning | Side Note
