@@ -28,3 +28,11 @@ Vocabulary | Meaning | Side Note
 
 (The consideration of meat-free diets seems to be a flaw as meat itself ...)
 
+
+-----
+## `3. Some people strongly oppose animal experimentation, believing that it causes pain to animals, while some other people consider it necessary. What is your opinion?`
+
+
+
+Vocabulary | Meaning | Side Note
+---------- | ------- | ---------
