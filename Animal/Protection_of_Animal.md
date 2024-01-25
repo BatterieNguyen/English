@@ -52,7 +52,7 @@ Vocabulary | Meaning | Side Note
 -----
 ## `3. Some people hold that we should spend money and time on the protection of wild animals while others suggest that the money should be spent on populations living in the poorest areas of the world. What is your opinion?`
 
-  In these years, animal protection has become a subject of ongoing scientific research and an issue of concern. People take different views toward the enormous spending required by wildlife conservation. It is suggested that the spending should be diverted to helping human populations, especially thoe living below poverty line, because human life is more valuable than animal life. In my opinion, the investment in animal conservation is worthwhile.
+  In these years, animal protection has become a subject of ongoing scientific research and an issue of concern. People take different views toward the enormous spending required by wildlife conservation. It is suggested that the spending should be diverted to helping human populations, especially those living below poverty line, because human life is more valuable than animal life. In my opinion, the investment in animal conservation is worthwhile.
 
   Animals, as a significant part of an ecosystem, have profound impacts on the sustainability of an ecosystem and on the well-being of humanity. All animals are connected in one way or another in food chains. For this reason, the demise of a species can lead to overpopulation or underpopulation of another species and then put this species at the verge of extinction. The natural balance will be disrupted and the ecosystem cannot be sustained. It would disable vegetation from purifying water, recycling nutrient and pollinating crops. We humans are eventually affected.
 
@@ -65,6 +65,15 @@ Vocabulary | Meaning | Side Note
 
 Vocabulary | Meaning | Side Note
 ---------- | ------- | ---------
+divert     | (often passive) to make somebody/something change direction | be diverted (from something) (to/into/onto something)
+derive     | to come or develop from something | derive from sth/ be derived from something
+draw upon  | to use a supply of something that is available to you | draw on/upon something
+poverty    | | poverty line
+demise     | the end or failure of an institution, an idea, a company, etc.
+pollinate  | to put pollen into a flower or plant so that it produces seeds
+
+
+
 
 -----
 ## `4. Far too little has been done to prevent animals and plants from dying out, although people have noticed this problem for a long time. Why have people failed to improve this situation? What are your suggestions?`
