@@ -11,6 +11,8 @@ With this task, ...
   * Also, Writers should mention the opposing view briefly, and then, reject it (this is called the ___concession___).
 * The conclusion should state writer's opinion again and summarise somw of the main supporting idea.
 
+__Structure: `Introduction => Main Body (Reason 1 => Reason 2 => Concession) => Conclusion`__
+
 
 ### Personal Thesis
 | Perspective | Expression | 
