@@ -13,7 +13,7 @@ Common ~
 > * the advertising overload
 
 ### `Brainstorming`
-# _ Positive_
+# _Positive_
 * give a competitive edge in brand awareness → links the customers to the business → [in simple term] help the image/ detail information reach the targeted audiences → 
   * boost its sales → facilitate the economic well-being/ create economic intensive/ guarantee the high rate of turnover of the manufactured product → sustainability of the company/ business.
   * [if not necessarily for sale stimulation] draw the attention of public →
@@ -47,6 +47,7 @@ the rise of perfection over the realism → [according to the advertisers' wish 
 
 -----
 ### _3. The high sales of popular consumer good reflect the power of advertisisng but not the read need of the society where such products are sold. To What extent do you agree or disagree?_
+
  Advertising is well-known as a method of promotion, a method used by corporations to introduce their products and services to the market, attract the eye of consumers and increase sales. Crisis of advertising argue that advertising is the main drive of soaring sales of some products and services, inducing consumers to purchase what they do not actually need in their daily lives. This contention is self-evident.
 
  Advertisements conquer the audience mainly by sending them a message that they are lacking a specific brand or product that is likely to make them acceptable or even distinguished individuals in society. The advertisements as to medicine, dietary supplement and other life-enhancing products provide a typical example. Targetting the buyers that are doubtful or worried about health, advertisers have sought to encourage them to think that they are thresatened by such problems as malnutrition, dysfunction of any part of their bodies. Lack of the knowledge in this field, the audience will rush to buy the advertised products. Such cases are ever-present, and the audience expects an immediate positive outcome, disregarding other solutions.
@@ -55,7 +56,20 @@ the rise of perfection over the realism → [according to the advertisers' wish 
 
  In conclusion, people should stay alert to the influence advertising has on their decision making process. As indicated above, advertising has twisted the information about what product is needed, or what product is favoured, thereby driving people to make insensible buy decisions.
 
+___`Keywords for argument`___
+* Popular
+* Power of advertising
+* Not the real need
+
 ___`Break down Ideas`___
+
+(100% Agree) - this contention is self-evident.
+* (Power 1) - a specific brand or product that is likely to make them acceptable or even distinguished individuals in society.
+  * (Popular, E.x.) - medicine, dietary supplement and other life-enhancing products
+  * (Not the real need) - to think that they are thresatened by illnesses => rush to buy the advertised products
+* (Power 2) - give an exaggerated account of the popularity of a product => create a best-seller image for a newly-marketed product => hope to become one of the eyewitnesses and participants of a fad.
+  * (Not a real need) - might not actually need to make purchases so frequently, but advertising spurs them to do so. => E.x., cellphone
+  * (Popular) - With the number of buyers growing, it will evolve into a buying craze.
 
 
 | vocabulary | Meaning | Side Note |
@@ -111,7 +125,6 @@ ___=> the effect of advertising will be countracted over time.___
 
 
 -----
-
 ### _5. Advertising encourages customers to buy in quantity not in quality. To what extent do you agree or disagree?_
 
  Living in the information age, people are bombarded with subtaintial daily doses of advertising in multiple media. The argument that advertising, with its overwhelming power, leads to consumers' impulsive purchase has been accepted by more and more people. Consumers are encouraged by advertisements to purchase products in quantity without paying heed to quality. This allegation is flawed, as far as I am concerned.
@@ -123,6 +136,25 @@ ___=> the effect of advertising will be countracted over time.___
  It is also necessary to draw a line between the concept of marketing and that of advertising. Advertising alone is not able to contribute high sales and the link between advertising and product usage is in fact not clear. IN its broadest sense, advertising is merely a mean of generating demand in society by offering specific information on a product or service in a persuasive format. It is similar to sales promotion, package sales, low-pricing strategy and other marketing tecniques. Advertising simply conveys the message relating to price, rather than creating this message.
 
  The facts outlined above, when taken together, are in favor of a view that consumers take in the information delivered by an advertisement differently, and they are influenced by a variety of factors and driven by forces in a decision making process. Quality is of concern to them in most cases, instead of price.
+
+___`Break down Ideas`___
+
+
+| vocabulary | Meaning | Side Note |
+| ---------- | ------- | --------- |
+
+-----
+### _6. Some people argue that advertising is discouraging people from being different individuals, and makes people to be or seems to be the same. Do you agree or disagree?_
+
+ Perhaps o subject in the world is as likely to cause so much controversy as advertising does. One of the main criticism against advertising is that it erases individuals' sense of identity and causes them to buy the same product. This view has flaws.
+
+ By tempting messages and persuaive arguments, advertising can draw the attention of the audience, but not necessarily stimulate the sales. It is clear that consumers rarely rely on advertising as a single source of informatio before deciding what to buy. Instead, they use multiple information source that are complementary, such as family, friends, inspections, and so forth. It is oversimplistic to say that advertising plays a decisive roles. Most of the time, there are a range of factors a consumer can take into account, including their income levels, circumstances, and so forth. For instance, when it comes to luxury goods, only a limited number of consumers respond with a final purchase. Therefore, however persuasive an advertisement is, never can it lead to the viewers making the same purchase.
+
+ Meanwhile, consumers have low tolerance for sameness. There is much uncertainty about the preference of consumers nowadays, primarily because they have easy access to information. An existing brand is vulnerable to any new entrant. Brand loyalty is something of the past, the rise and fall of a brand is abrupt. Even if brand preference is established because of advertising, there is no assurance it will be maintained. it seems to be an entrenched tendency of consumers to try different products. The main reason behind the high unpredictability of consumer behavior is unclear, but it is certain that consumers will no buy the same product.
+
+ However, people should, meanwhile, admit that advertising has every now and then contributed to consumers' unplanned purchase. Banners, signs, flags, and other visuals, for example, turn unintended shoppers successfully into impulsive buyers in their mundane shopping trip. Another function of advertising is to make people live in a world of fantasy, in which they consider themselves prettier, slimmer, richer, and more outstanding. Advertising also succeeds in creating peer effect. It is not unusual that one buys something on impulse without knowing much about the product but merely assuming that his or her peers are using it.
+
+ As suggested above, individuals;' reactions to advertisements and preferences on a brand are inherently complex and unpredictable, simple cause-and-effect conclusions are elusive. Despite boosting the sales of a product or service, advertising can hardly make any product or service dominate the market.
 
 ___`Break down Ideas`___
 
