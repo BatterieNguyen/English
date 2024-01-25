@@ -2,6 +2,9 @@
 [We don’t need to save endangered species. Extinction is part of evolution.](https://www.washingtonpost.com/outlook/we-dont-need-to-save-endangered-species-extinction-is-part-of-evolution/2017/11/21/57fc5658-cdb4-11e7-a1a3-0d1e45a6de3d_story.html)
 
 -----
+## `1. Some people think that too much attention and too many resources are given to the protection of wild animals and birds. Do you agree or disagree?` (26/02/2022)
+
+
 
 
 -----
