@@ -5,3 +5,8 @@
 ## `1. Far too little has been done to prevent animals and plants from dying out, although people have noticed this problem for a long time. Why have people failed to improve this situation? What are your suggestions?`
 
 
+-----
+## `2. Some people think that killing animals for food is cruel, but others claim that animals are a necessary part of diet. What is your opinion?`
+
+
+
