@@ -2,28 +2,40 @@
 [We don’t need to save endangered species. Extinction is part of evolution.](https://www.washingtonpost.com/outlook/we-dont-need-to-save-endangered-species-extinction-is-part-of-evolution/2017/11/21/57fc5658-cdb4-11e7-a1a3-0d1e45a6de3d_story.html)
 
 -----
-## Sample
-
-## `1. Far too little has been done to prevent animals and plants from dying out, although people have noticed this problem for a long time. Why have people failed to improve this situation? What are your suggestions?`
 
 
 -----
-## `2. Some people think that killing animals for food is cruel, but others claim that animals are a necessary part of diet. What is your opinion?`
+# Sample
 
-  It is a widespread practice that livestock is raised and butchered for human consumption. Although it has been condemned as cruelty to animals, a counter-argument is that meat is the necessity for people's health and well-being. To the best of my knowledge, meat is a regular part of the diet and there is no alternative to anima food sources.
+## `1. Some people think that killing animals for food is cruel, but others claim that animals are a necessary part of diet. What is your opinion?`
 
-  The first jsutification is that animal source foods provide a wide range of nutrients that are difficult to obtain in adequate quantities from plant source foods. Insufficient intake of those utrients will produce negative outcomes, such as poor growth. A diet with a good combination of meat and vegetable is thought to have considerable value. Some might argue that consumption of meat can pose health risks and increase the risk of foodbborne illness. This statement is fallacious, considering the fact that people can kill bacteria and remove risk factors by cooking properly and using scientific methods in manufacture.
+  It is a widespread practice that livestock is raised and butchered for human consumption. Although it has been condemned as cruelty to animals, a counter-argument is that meat is the necessity for people's health and well-being. To the best of my knowledge, meat is a regular part of the diet and there is no alternative to animal food sources.
+
+  The first jsutification is that animal source foods provide a wide range of nutrients that are difficult to obtain in adequate quantities from plant source foods. Insufficient intake of those nutrients will produce negative outcomes, such as poor growth. A diet with a good combination of meat and vegetable is thought to have considerable value. Some might argue that consumption of meat can pose health risks and increase the risk of foodbborne illness. This statement is fallacious, considering the fact that people can kill bacteria and remove risk factors by cooking properly and using scientific methods in manufacture.
 
   Another point to note is that most of the meat avaiable in supermarkets for people's consumption is produced by industrial agriculture. In view of the intense use of technology and mass production techniques, the produced livestock, poultry, or fish cannot be taken as ordinary animals but only as manufactured goods. By making use of economies of scale to produce enough food at an affordable cost, industrial farming is essential to addressing food supply problems.
 
   The significance of capitalising on animals as a food source is therefore undeniable, but it is important to realise that people cannot exploit animals and become addicted to meat consumption. Animal fats, for example, increase the risk of heart disease and meat is frequently associated with outbreaks of food poisoning. Meanwhile, people's insatiable desire for meat might lead to intensive livestock farming and animal slaughter, which has a direct impact on the well-being of animals worldwide.
 
-  From the preceding discussion, one can see no reason why livestock or some other animals cannot be used as food. Swithcing to an animal-free diet is a personal option, but the question remains whether one can ensure sufficient intake of nutrition necessary for one's health. When there is little room for argument concerning the use of animals for meat, it is necessary to impose standards and prevent animal exploitation.
+  From the preceding discussion, one can see no reason why livestock or some other animals cannot be used as food. Switching to an animal-free diet is a personal option, but the question remains whether one can ensure sufficient intake of nutrition necessary for one's health. When there is little room for argument concerning the use of animals for meat, it is necessary to impose standards and prevent animal exploitation.
 
 
 
 Vocabulary | Meaning | Side Note
 ---------- | ------- | ---------
+livestock  | the animals kept on a farm, for example cows or sheep
+pultry     | chickens, ducks and geese, kept for their meat or eggs
+
+
+well-being | general health and happiness | emotional/physical/psychological well-being // a sense of well-being
+digital well-being | the careful use of technology and the internet in a way that does not harm the user's mental or physical health
+foodborne illness  | caused by contamination of food and occur at any stage of the food production, delivery and consumption chain
+condemn    | to say very strongly that you think something is bad, usually for moral reasons 
+butcher    | to kill animals and cut them up for use as meat | butcher something // butcher sb ~ to kill people in a very cruel and violent way
+capitalise on/ upon sth | to gain a further advantage for yourself from a situation
+fallacious | (adj) wrong; based on a false idea
+insatiable | ​always wanting more of something; not able to be satisfied
+
 
 
 
@@ -32,16 +44,15 @@ Vocabulary | Meaning | Side Note
 
 
 -----
-## `3. Some people strongly oppose animal experimentation, believing that it causes pain to animals, while some other people consider it necessary. What is your opinion?`
+## `2. Some people strongly oppose animal experimentation, believing that it causes pain to animals, while some other people consider it necessary. What is your opinion?`
 
 
 
 Vocabulary | Meaning | Side Note
 ---------- | ------- | ---------
 
-
 -----
-## `4. Some people hold that we should spend money and time on the protection of wild animals while others suggest that the money should be spent on populations living in the poorest areas of the world. What is your opinion?`
+## `3. Some people hold that we should spend money and time on the protection of wild animals while others suggest that the money should be spent on populations living in the poorest areas of the world. What is your opinion?`
 
   In these years, animal protection has become a subject of ongoing scientific research and an issue of concern. People take different views toward the enormous spending required by wildlife conservation. It is suggested that the spending should be diverted to helping human populations, especially thoe living below poverty line, because human life is more valuable than animal life. In my opinion, the investment in animal conservation is worthwhile.
 
@@ -56,3 +67,12 @@ Vocabulary | Meaning | Side Note
 
 Vocabulary | Meaning | Side Note
 ---------- | ------- | ---------
+
+-----
+## `4. Far too little has been done to prevent animals and plants from dying out, although people have noticed this problem for a long time. Why have people failed to improve this situation? What are your suggestions?`
+
+
+
+Vocabulary | Meaning | Side Note
+---------- | ------- | ---------
+
