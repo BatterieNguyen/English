@@ -45,7 +45,7 @@ Vocabulary | Meaning | Side Note
 
   Animals, as a significant part of an ecosystem, have profound impacts on the sustainability of an ecosystem and on the well-being of humanity. All animals are connected in one way or another in food chains. For this reason, the demise of a species can lead to overpopulation or underpopulation of another species and then put this species at the verge of extinction. The natural balance will be disrupted and the ecosystem cannot be sustained. It would disable vegetation from purifying water, recycling nutrient and pollinating crops. We humans are eventually affected.
 
-  Another justification for animal protection is that animals play a significant role in the development of industries, as an important natural resource. People derive substances and materials from animals for different purposes.
+  Another justification for animal protection is that animals play a significant role in the development of industries, as an important natural resource. People derive substances and materials from animals for different purposes. A typical example is that animals provide essential substances for drug-making . It is also very common that designers and engineers turn to wildlife for inspiration. For 
 
 
 Vocabulary | Meaning | Side Note
