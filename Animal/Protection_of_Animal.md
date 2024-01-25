@@ -36,3 +36,17 @@ Vocabulary | Meaning | Side Note
 
 Vocabulary | Meaning | Side Note
 ---------- | ------- | ---------
+
+
+-----
+## `4. Some people hold that we should spend money and time on the protection of wild animals while others suggest that the money should be spent on populations living in the poorest areas of the world. What is your opinion?`
+
+  In these years, animal protection has become a subject of ongoing scientific research and an issue of concern. People take different views toward the enormous spending required by wildlife conservation. It is suggested that the spending should be diverted to helping human populations, especially thoe living below poverty line, because human life is more valuable than animal life. In my opinion, the investment in animal conservation is worthwhile.
+
+  Animals, as a significant part of an ecosystem, have profound impacts on the sustainability of an ecosystem and on the well-being of humanity. All animals are connected in one way or another in food chains. For this reason, the demise of a species can lead to overpopulation or underpopulation of another species and then put this species at the verge of extinction. The natural balance will be disrupted and the ecosystem cannot be sustained. It would disable vegetation from purifying water, recycling nutrient and pollinating crops. We humans are eventually affected.
+
+  Another justification for animal protection is that animals play a significant role in the development of industries, as an important natural resource. People derive substances and materials from animals for different purposes.
+
+
+Vocabulary | Meaning | Side Note
+---------- | ------- | ---------
