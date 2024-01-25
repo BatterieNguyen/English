@@ -69,14 +69,6 @@ the rise of perfection over the realism → [according to the advertisers' wish 
 | gullible     | (adj) too willing to believe or accept what other people tell you and therefore easily tricked | ~ naive |
 | alert        | (adj) aware of something, especially a problem or danger | stay alert to sth |
 
-
-
-
-
-
-
-
-
 -----
 ## _Do the positive effects outweigh negative effects, when advertising gains popularity?_
 
@@ -111,3 +103,8 @@ ___=> the effect of advertising will be countracted over time.___
 | fraught    | (adj) filled with something unpleasant | be fraught with sth |
 | inferior   | (adj, formal) of lower rank; lower | 
 
+-----
+
+## _Advertising encourages customers to buy in quantity not in quality. To what extent do you agree or disagree?_
+
+### `Sample`
