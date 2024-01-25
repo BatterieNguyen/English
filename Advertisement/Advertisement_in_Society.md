@@ -1,4 +1,8 @@
-## Advertisements are becoming more and more common in everyday life. Is it a positive or negative development?
+
+
+## Sample
+
+### 1. Advertisements are becoming more and more common in everyday life. Is it a positive or negative development?
 
 Advertisements ~
 > * the attempt of advertisement,
@@ -9,7 +13,7 @@ Common ~
 > * the advertising overload
 
 ### `Brainstorming`
-# _1. Positive_
+# _ Positive_
 * give a competitive edge in brand awareness → links the customers to the business → [in simple term] help the image/ detail information reach the targeted audiences → 
   * boost its sales → facilitate the economic well-being/ create economic intensive/ guarantee the high rate of turnover of the manufactured product → sustainability of the company/ business.
   * [if not necessarily for sale stimulation] draw the attention of public →
@@ -20,7 +24,7 @@ increase the sense of satisfaction → [in this tactic] stress the attributes of
 
 supply/ provide adequate and accurate information → make customers knowledgeable consumers/ users
 
-# _2. Negative_
+# _ Negative_
 Misrepresentation/ give products an exaggerated account/ cross the line of a little exaggeration → [in this tactic] stress the attributes of a products (that link to the customer tastes/ the shopping preference of customer) or the effectiveness of product → while play down the others (bad consequences of overeating a type of foods → divert the attention of audience → make them more susceptible to the effect of commercial
 
 unwelcome intrusion → the advent/ availability of the internet → rise on an unprecedented scale (social media, web browsers, ... ) → [while] not always most of them are useful information nor meet their interest to know → cause annoyance → refuse the advertisement without considering whether that is thought provoking/ well-meaning or not.
@@ -39,12 +43,10 @@ the rise of perfection over the realism → [according to the advertisers' wish 
 [it is generally accepted as true]
 
 -----
-## _The society would benefit from a ban on all forms of advertising because it serves no useful purpose, and can even be damaging. Do you agree or disagree?_
+### _2. The society would benefit from a ban on all forms of advertising because it serves no useful purpose, and can even be damaging. Do you agree or disagree?_
 
 -----
-## _The high sales of popular consumer good reflect the power of advertisisng but not the read need of the society where such products are sold. To What extent do you agree or disagree?_
-
-### `Sample`
+### _3. The high sales of popular consumer good reflect the power of advertisisng but not the read need of the society where such products are sold. To What extent do you agree or disagree?_
  Advertising is well-known as a method of promotion, a method used by corporations to introduce their products and services to the market, attract the eye of consumers and increase sales. Crisis of advertising argue that advertising is the main drive of soaring sales of some products and services, inducing consumers to purchase what they do not actually need in their daily lives. This contention is self-evident.
 
  Advertisements conquer the audience mainly by sending them a message that they are lacking a specific brand or product that is likely to make them acceptable or even distinguished individuals in society. The advertisements as to medicine, dietary supplement and other life-enhancing products provide a typical example. Targetting the buyers that are doubtful or worried about health, advertisers have sought to encourage them to think that they are thresatened by such problems as malnutrition, dysfunction of any part of their bodies. Lack of the knowledge in this field, the audience will rush to buy the advertised products. Such cases are ever-present, and the audience expects an immediate positive outcome, disregarding other solutions.
@@ -52,6 +54,9 @@ the rise of perfection over the realism → [according to the advertisers' wish 
  Advertising also works to create a best-seller image for a newly-marketed product. THe audience is tempted to buy it in the hope that they can, thus, become one of the eyewitnesses and participants of a fad. It is not uncommon that cell phone users replace their phone every year, although the phone they have abandoned is still in usable conditions. They might not actually need to make purchases so frequently, but advertising spurs them to do so. The power of advertising has too often abused by advertisers, who tend to give an exaggerated account of the popularity of a product, sonn after the product is marketed. So gullible are some buyers that they are drivento buy it. With the number of buyers growing, it will evolve into a buying craze.
 
  In conclusion, people should stay alert to the influence advertising has on their decision making process. As indicated above, advertising has twisted the information about what product is needed, or what product is favoured, thereby driving people to make insensible buy decisions.
+
+___`Break down Ideas`___
+
 
 | vocabulary | Meaning | Side Note |
 | ---------- | ------- | --------- |
@@ -70,9 +75,20 @@ the rise of perfection over the realism → [according to the advertisers' wish 
 | alert        | (adj) aware of something, especially a problem or danger | stay alert to sth |
 
 -----
-## _Do the positive effects outweigh negative effects, when advertising gains popularity?_
+### _4. Do the positive effects outweigh negative effects, when advertising gains popularity?_
 
-### `Break down Idea`
+ It has always been difficult to access the contribution of advertising. This issue is fraught with controvery, with concern being expressed over the harmful effects of advertising. Below are some arguments against this concern.
+
+ It is important that one of the key functions of advertising is to supply consumers with adequate and accurate information about all of the alternatives avaiable to them. Every now and then, advertising is criticised on the ground that it can manipulate consumers to follow the will of the advertiser; however, evidence supports an oppsing view that advertising merely pomotes products that are most likely to satisfy customers' wants. In simple term, it is consumers rather advertisers who decide what are advertised.
+
+ Advertising also plays a significant role in fostering full employment and facilitating economic well-being. By conveying marketing information constantly to the target audience, advertising speeds manufactured good and therefore, sustainability of a business. It is also agreed that advertising is one of the main sponsors of a large number of other industries, for example, the entertainment industry m particularly sports, music, and theatrical events.
+
+ Urguably, advertising is criticised every now and then for misleading the public. However, the rapid development of advertising itself has provided a solution to this problem, as the information delivered to the audiences has made them knowledgable consumers. Under this circumstance, they can easily distinguish inferior products from quality products with their knowledge. The misleading effect of advertising will be counteracted over time.
+
+ To summarize, advertising suggets what conssumers need and contribute partly to economic development. In this sense, advertising is of great value to people and the society. The general perception of advertising as a source of misleading information is in fact a bias. 
+ 
+___`Break down Ideas`___
+
 (100% disagree) - Below are some arguments against this concern.
 * (Positive 1)  - adequate and accurate information about all alternatives avaiable
   * (Concession) - manupulate consumers to follow the will of the advertiser
@@ -87,17 +103,6 @@ the rise of perfection over the realism → [according to the advertisers' wish 
 
 ___=> the effect of advertising will be countracted over time.___
 
-### `Sample`
- It has always been difficult to access the contribution of advertising. This issue is fraught with controvery, with concern being expressed over the harmful effects of advertising. Below are some arguments against this concern.
-
- It is important that one of the key functions of advertising is to supply consumers with adequate and accurate information about all of the alternatives avaiable to them. Every now and then, advertising is criticised on the ground that it can manipulate consumers to follow the will of the advertiser; however, evidence supports an oppsing view that advertising merely pomotes products that are most likely to satisfy customers' wants. In simple term, it is consumers rather advertisers who decide what are advertised.
-
- Advertising also plays a significant role in fostering full employment and facilitating economic well-being. By conveying marketing information constantly to the target audience, advertising speeds manufactured good and therefore, sustainability of a business. It is also agreed that advertising is one of the main sponsors of a large number of other industries, for example, the entertainment industry m particularly sports, music, and theatrical events.
-
- Urguably, advertising is criticised every now and then for misleading the public. However, the rapid development of advertising itself has provided a solution to this problem, as the information delivered to the audiences has made them knowledgable consumers. Under this circumstance, they can easily distinguish inferior products from quality products with their knowledge. The misleading effect of advertising will be counteracted over time.
-
- To summarize, advertising suggets what conssumers need and contribute partly to economic development. In this sense, advertising is of great value to people and the society. The general perception of advertising as a source of misleading information is in fact a bias. 
-
 | vocabulary | Meaning | Side Note |
 | ---------- | ------- | --------- |
 | fraught    | (adj) filled with something unpleasant | be fraught with sth |
@@ -107,6 +112,20 @@ ___=> the effect of advertising will be countracted over time.___
 
 -----
 
-## _Advertising encourages customers to buy in quantity not in quality. To what extent do you agree or disagree?_
+### _5. Advertising encourages customers to buy in quantity not in quality. To what extent do you agree or disagree?_
 
-### `Sample`
+ Living in the information age, people are bombarded with subtaintial daily doses of advertising in multiple media. The argument that advertising, with its overwhelming power, leads to consumers' impulsive purchase has been accepted by more and more people. Consumers are encouraged by advertisements to purchase products in quantity without paying heed to quality. This allegation is flawed, as far as I am concerned.
+
+ The first fact to note is that despite the strength of advertising, viewers remain as decision makers. They gather information from advertisements based on their own interest. While some people focus on quality, others are concerned with price. Likewise, advertisements stress different aspects of a product, either quality or price, which is determined by contexts. Consumers are now desensitised to the information delivered by commercials and become increasingly cautious. Quality is, in most cases, a primary concern to them. Even those most loyal users of advertising are now concentrated on product quality, believing that neither pricing nor advertising is an effective facilitator of sales and consumers' satisfaction with quality is the key to repeat purchase.
+
+ Price is, perhaps, an inducement used by marketers to trigger sales, but other elements, such as product package, functions, after-sales service and warrantee, appear to gain in importance. Advertising informs people of more choices, allowing them to make a buying decision according to their needs and favor a product for different reasons, either quality or price cuts. Needless to say, people have become more circumspect than ever before and more prone to the interaction of other factors, such as the advice of their friends, past experience, current knowledge and physiological state.
+
+ It is also necessary to draw a line between the concept of marketing and that of advertising. Advertising alone is not able to contribute high sales and the link between advertising and product usage is in fact not clear. IN its broadest sense, advertising is merely a mean of generating demand in society by offering specific information on a product or service in a persuasive format. It is similar to sales promotion, package sales, low-pricing strategy and other marketing tecniques. Advertising simply conveys the message relating to price, rather than creating this message.
+
+ The facts outlined above, when taken together, are in favor of a view that consumers take in the information delivered by an advertisement differently, and they are influenced by a variety of factors and driven by forces in a decision making process. Quality is of concern to them in most cases, instead of price.
+
+___`Break down Ideas`___
+
+
+| vocabulary | Meaning | Side Note |
+| ---------- | ------- | --------- |
