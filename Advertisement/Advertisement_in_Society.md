@@ -1,8 +1,8 @@
 
 
-## Sample
 
-### 1. Advertisements are becoming more and more common in everyday life. Is it a positive or negative development?
+
+## 1. Advertisements are becoming more and more common in everyday life. Is it a positive or negative development?
 
 Advertisements ~
 > * the attempt of advertisement,
@@ -43,6 +43,8 @@ the rise of perfection over the realism → [according to the advertisers' wish 
 [it is generally accepted as true]
 
 -----
+## Sample
+
 ### `2. The society would benefit from a ban on all forms of advertising because it serves no useful purpose, and can even be damaging. Do you agree or disagree?`
 
 -----
@@ -133,7 +135,7 @@ ___=> the effect of advertising will be countracted over time.___
 
  Price is, perhaps, an inducement used by marketers to trigger sales, but other elements, such as product package, functions, after-sales service and warrantee, appear to gain in importance. Advertising informs people of more choices, allowing them to make a buying decision according to their needs and favor a product for different reasons, either quality or price cuts. Needless to say, people have become more circumspect than ever before and more prone to the interaction of other factors, such as the advice of their friends, past experience, current knowledge and physiological state.
 
- It is also necessary to draw a line between the concept of marketing and that of advertising. Advertising alone is not able to contribute high sales and the link between advertising and product usage is in fact not clear. IN its broadest sense, advertising is merely a mean of generating demand in society by offering specific information on a product or service in a persuasive format. It is similar to sales promotion, package sales, low-pricing strategy and other marketing tecniques. Advertising simply conveys the message relating to price, rather than creating this message.
+ It is also necessary to draw a line between the concept of marketing and that of advertising. Advertising alone is not able to contribute high sales and the link between advertising and product usage is in fact not clear. In its broadest sense, advertising is merely a mean of generating demand in society by offering specific information on a product or service in a persuasive format. It is similar to sales promotion, package sales, low-pricing strategy and other marketing tecniques. Advertising simply conveys the message relating to price, rather than creating this message.
 
  The facts outlined above, when taken together, are in favor of a view that consumers take in the information delivered by an advertisement differently, and they are influenced by a variety of factors and driven by forces in a decision making process. Quality is of concern to them in most cases, instead of price.
 
