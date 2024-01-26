@@ -142,8 +142,10 @@ ___=> the effect of advertising will be countracted over time.___
 ___`Break down Ideas`___
 
 
-| vocabulary | Meaning | Side Note |
-| ---------- | ------- | --------- |
+vocabulary | Meaning | Side Note 
+---------- | ------- | --------- 
+substaintial | (adj) large in amount, value or importance
+
 
 -----
 ### `6. Some people argue that advertising is discouraging people from being different individuals, and makes people to be or seems to be the same. Do you agree or disagree?`
