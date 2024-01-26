@@ -21,6 +21,9 @@ Counterargument
 wild animals do not appear to have the same impact on humans as other ones → [Ex] … → [without the appearance of …] people still continued to develop at a rapid pace as they do today → [in my interpretation] usually protect animals out of ethical concerns → [thus] should not go overboard in any effort to save them.
 It seems to be naive and short-sighted to emphasize that spending attention and resources simply on animals is the approach that promises the best outcomes. In fact, the root causes putting those living creatures at serious risk come from the lack of knowledge about the value of animals and the greed for deriving huge profitability from body parts of these species. Even if more advanced technology and national budgets flood into the preservation, there is still an increasing number of poachers who damage wild animals and the concern over this issue cannot be solved radically. In this sense, different approaches to raising public awareness and stricter policies imposed on hunting animals should be highly recommended simultaneously.
 
+### Outcome
+
+
 -----
 # Sample
 
@@ -28,7 +31,7 @@ It seems to be naive and short-sighted to emphasize that spending attention and 
 
   It is a widespread practice that livestock is raised and butchered for human consumption. Although it has been condemned as cruelty to animals, a counter-argument is that meat is the necessity for people's health and well-being. To the best of my knowledge, meat is a regular part of the diet and there is no alternative to animal food sources.
 
-  The first jsutification is that animal source foods provide a wide range of nutrients that are difficult to obtain in adequate quantities from plant source foods. Insufficient intake of those nutrients will produce negative outcomes, such as poor growth. A diet with a good combination of meat and vegetable is thought to have considerable value. Some might argue that consumption of meat can pose health risks and increase the risk of foodbborne illness. This statement is fallacious, considering the fact that people can kill bacteria and remove risk factors by cooking properly and using scientific methods in manufacture.
+  The first justification is that animal source foods provide a wide range of nutrients that are difficult to obtain in adequate quantities from plant source foods. Insufficient intake of those nutrients will produce negative outcomes, such as poor growth. A diet with a good combination of meat and vegetable is thought to have considerable value. Some might argue that consumption of meat can pose health risks and increase the risk of foodbborne illness. This statement is fallacious, considering the fact that people can kill bacteria and remove risk factors by cooking properly and using scientific methods in manufacture.
 
   Another point to note is that most of the meat avaiable in supermarkets for people's consumption is produced by industrial agriculture. In view of the intense use of technology and mass production techniques, the produced livestock, poultry, or fish cannot be taken as ordinary animals but only as manufactured goods. By making use of economies of scale to produce enough food at an affordable cost, industrial farming is essential to addressing food supply problems.
 
@@ -36,7 +39,11 @@ It seems to be naive and short-sighted to emphasize that spending attention and 
 
   From the preceding discussion, one can see no reason why livestock or some other animals cannot be used as food. Switching to an animal-free diet is a personal option, but the question remains whether one can ensure sufficient intake of nutrition necessary for one's health. When there is little room for argument concerning the use of animals for meat, it is necessary to impose standards and prevent animal exploitation.
 
-
+### `Break down Ideas`
+(100%) - ___No___ alternative to animal food sources and regular part of diets
+1. Provide nutritions that no alternative can provide adequately
+2. Meat is produced by industrial agriculture
+3. (Concession) - cannot exploit animals and become addicted to meat consumption.  
 
 Vocabulary | Meaning | Side Note
 ---------- | ------- | ---------
@@ -50,9 +57,16 @@ butcher    | to kill animals and cut them up for use as meat | butcher something
 capitalise on/ upon sth | to gain a further advantage for yourself from a situation
 fallacious | (adj) wrong; based on a false idea
 insatiable | ​always wanting more of something; not able to be satisfied
+vegetarian | a person who does not eat meat or fish | fruitarian
+carnivore  | | >< herbivore/ insectivore/ omnivore 
+Industrial farming | | >< Organic farming
 
 
+[10 things to know about industrial farming](https://www.unep.org/news-and-stories/story/10-things-you-should-know-about-industrial-farming)
 
+[What Is Industrial Farming? (With Pros and Cons)](https://www.indeed.com/career-advice/finding-a-job/industrial-farming)
+
+[The ethical arguments against eating meat](https://www.ox.ac.uk/news/arts-blog/ethical-arguments-against-eating-meat)
 
 
 (The consideration of meat-free diets seems to be a flaw as meat itself ...)
@@ -104,12 +118,12 @@ poverty    | | poverty line
 demise     | the end or failure of an institution, an idea, a company, etc.
 pollinate  | to put pollen into a flower or plant so that it produces seeds
 
-
-
-
 -----
 ## `4. Far too little has been done to prevent animals and plants from dying out, although people have noticed this problem for a long time. Why have people failed to improve this situation? What are your suggestions?`
 
+  Nowadays, the progresive extinction of living species on the planet, either animals or plants, as arisen as a big environmental challenge, according to many scientists and researchers. Despite the growing concern on this issue, little progress has been made in this field. There are some factors that account for why this happended. In my opinion, this situation can be remedied, provided that some reasonable steps are taken.
+
+  
 
 
 Vocabulary | Meaning | Side Note
