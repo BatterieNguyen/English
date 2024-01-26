@@ -49,11 +49,26 @@ insatiable | ​always wanting more of something; not able to be satisfied
 
 -----
 ## `2. Some people strongly oppose animal experimentation, believing that it causes pain to animals, while some other people consider it necessary. What is your opinion?`
+  Perhaphs, no subject in the moral cmmunity is as controversial as animal testing. Animals, many people believe, merit more humane treatment. when animal-based experiments hav long been the center of criticism, I am of the opinion that such experiments are essential to both the well-being of human beings and that of animals.
 
+  There is little doubt, first of all, that most of the animal-based experiments are conducted for the development of technology and to date, there is little chance of finding satisfying substitutions for animals. Animals are used mainly because they bear a close resemblance to humans, either in behavior or in cell structure. The respond to external disturbaces, such as electrical shock, nearly in the same manner as humans do. There is much evidence that most of what peope know about themselves, including pain, stress, reproduction, and nutrition, is based on findings of animal-based experiments. Animal testing proves one of the main approaches to predict the risk when drugs or other products are used on humans.
 
+  Another fact to support anumal-based experiment is that animals are not equivalent of humans, and can be used as resources for human purposes. Animals have no capacity to recognise the rights of other species. Nor will they take in consideration the interests of other species. It is possibly one of the main reasons why animals feed on each other. Human, by comparison, use animal experimentations not only for their own interests but also for the interests of animals. For example, some medical discories can be used by veterinary surgeons to give medical care and treatment to sick animals.
+
+  Despite the justifications given for vivisection, researchers have the obligation to reduce animal testing and animal suffering. There is a growing recognition that animal tests are mostly done for commercial purposes and most of them are avoidable. For instance, the cosmetic industry has been exploiting animal experimentation simply for diversifying products and maximizing profits. the fewer cosmetic products people use, the fewer animal they have to slaughter. When scientists are emplowered to carry out cruel experiments like vivisection, such powers should not be abused.
+
+  To summarise, one can subcribe to the notion that animals can be taken as resources intended for the benefit of humans, although meanwhile it is certain that suffering should be controlled to the minimum during experimentation.
+  
 
 Vocabulary | Meaning | Side Note
 ---------- | ------- | ---------
+merit      | to deserve praise, attention, etc. | merit (doing) sth
+slaughter  | (n/v) to kill an animal, usually for its meat | ~ butcher
+resemblance | (n) the fact of being or looking similar to somebody/something | resemblance to sth/ between A and B ~ likeness 
+disturbance | (n, uncountable, countable, usually singular) actions that make you stop what you are doing, or that upset the normal state that something is in
+equivalent  | (n) a thing, amount, word, etc. that is equal in value, meaning or purpose to something else | equivalent to/ of sth
+vivisectin  | (n) the practice of doing experiments on live animals for medical or scientific research
+veterinary  | (adj) connected with caring for the health of animals | veterinary medicine/ science
 
 -----
 ## `3. Some people hold that we should spend money and time on the protection of wild animals while others suggest that the money should be spent on populations living in the poorest areas of the world. What is your opinion?`
