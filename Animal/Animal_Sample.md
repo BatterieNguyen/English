@@ -122,4 +122,4 @@ Vocabulary | Meaning | Side Note
 
 Vocabulary | Meaning | Side Note
 ---------- | ------- | ---------
-
+welfare    | the general health, happiness and safety of a person, an animal or a group | ~ well-being
