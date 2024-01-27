@@ -1,3 +1,9 @@
+__Aspects of Animals__
+> * Animal Protection
+> * Pet Raising
+
+-----
+# Animal Protection
 ## `1. Some people think that killing animals for food is cruel, but others claim that animals are a necessary part of diet. What is your opinion?`
 
   It is a widespread practice that livestock is raised and butchered for human consumption. Although it has been condemned as cruelty to animals, a counter-argument is that meat is the necessity for people's health and well-being. To the best of my knowledge, meat is a regular part of the diet and there is no alternative to animal food sources.
@@ -101,6 +107,7 @@ Vocabulary | Meaning | Side Note
 ---------- | ------- | ---------
 
 -----
+# Pet Raising
 ## `Discuss the arguments for and against raising pets`
 
   In these years, animal weldfare has become a subject of controversy and it has been rgued that animals should not be regarded as property by human beings or used against their own best interests. When pet raising has become a way of life in many societies around the world, it has, on the other hand, raised the question of whether it is a breach of animal rights. Below are soem arguments concerning pet ownership.
