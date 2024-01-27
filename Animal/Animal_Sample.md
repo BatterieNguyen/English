@@ -100,4 +100,7 @@ pollinate  | to put pollen into a flower or plant so that it produces seeds
 Vocabulary | Meaning | Side Note
 ---------- | ------- | ---------
 
+-----
+## `Discuss the arguments for and against raising pets`
 
+  In these years, animal weldfare has become a subject of controversy and it has been rgued that animals should not be regarded as property by human beings or used against their own best interests. When pet raising has become a way of life in many societies around the world, it has, on the other hand, raised the question of whether it is a breach of animal rights. Below are soem arguments concerning pet ownership.
