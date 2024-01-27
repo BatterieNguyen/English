@@ -39,3 +39,6 @@ the rise of perfection over the realism → [according to the advertisers' wish 
 [it is generally accepted as true]
 
 -----
+## _The society would benefit from a ban on all forms of advertising because it serves no useful purpose, and can even be damaging. Do you agree or disagree?_
+
+-----
