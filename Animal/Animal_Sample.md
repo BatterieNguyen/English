@@ -112,7 +112,7 @@ Vocabulary | Meaning | Side Note
 
   In these years, animal wellfare has become a subject of controversy and it has been argued that animals should not be regarded as property by human beings or used against their own best interests. When pet raising has become a way of life in many societies around the world, it has, on the other hand, raised the question of whether it is a breach of animal rights. Below are some arguments concerning pet ownership.
 
-  Pet animals are known for their loyalty and playful characteristics and belived to have apositive effect on the health of their owners. THe pressures of modern lifestylrs are tremedous. Compared o previous generations, people are more likely to live independently and away from their families at the present time. Adopting a pet animal as a coparison can give quality to the owner's life, and help reduce stress and blood pressure. It is also regarded as a solution to the feeling of isolation and loneliness. These two facts are combined to justify why there are an increasing number of people now depending on pet animals as companion or even a therapy.
+  Pet animals are known for their loyalty and playful characteristics and belived to have apositive effect on the health of their owners. THe pressures of modern lifestyles are tremendous. Compared to previous generations, people are more likely to live independently and away from their families at the present time. Adopting a pet animal as a companion can give quality to the owner's life, and help reduce stress and blood pressure. It is also regarded as a solution to the feeling of isolation and loneliness. These two facts are combined to justify why there are an increasing number of people now depending on pet animals as companion or even a therapy.
 
   Raising pets benefits pets as well. Providing companionship and giving pleasure to their owners, pets receive loing care and attention in return. Some might argue that holding a pet is unnatural, because pet animals would lose their original way of life. However, peple should meanwhilerecognize that some animals are unfitted to the wild environment. It is normally wrong that people force animals to struggle with food, clean water and other necessities in the wild environment.
 
@@ -123,3 +123,8 @@ Vocabulary | Meaning | Side Note
 Vocabulary | Meaning | Side Note
 ---------- | ------- | ---------
 welfare    | the general health, happiness and safety of a person, an animal or a group | ~ well-being
+breach     | (n) a failure to do something that must be done by law | breach of sth
+tremendous | (adj) very great
+
+
+
