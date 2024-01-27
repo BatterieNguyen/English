@@ -1,15 +1,10 @@
 __Aspects of Advertisement__
 > * Advertisment in Society
 
-
-
-
-## Sample
-
-### `2. The society would benefit from a ban on all forms of advertising because it serves no useful purpose, and can even be damaging. Do you agree or disagree?`
-
 -----
-### `3. The high sales of popular consumer good reflect the power of advertisisng but not the read need of the society where such products are sold. To What extent do you agree or disagree?`
+# Advertisement in Society
+
+## _The high sales of popular consumer good reflect the power of advertisisng but not the read need of the society where such products are sold. To What extent do you agree or disagree?_
 
  Advertising is well-known as a method of promotion, a method used by corporations to introduce their products and services to the market, attract the eye of consumers and increase sales. Crisis of advertising argue that advertising is the main drive of soaring sales of some products and services, inducing consumers to purchase what they do not actually need in their daily lives. This contention is self-evident.
 
@@ -52,7 +47,7 @@ ___`Break down Ideas`___
 | alert        | (adj) aware of something, especially a problem or danger | stay alert to sth |
 
 -----
-### `4. Do the positive effects outweigh negative effects, when advertising gains popularity?`
+### _Do the positive effects outweigh negative effects, when advertising gains popularity?_
 
  It has always been difficult to access the contribution of advertising. This issue is fraught with controvery, with concern being expressed over the harmful effects of advertising. Below are some arguments against this concern.
 
@@ -88,7 +83,7 @@ ___=> the effect of advertising will be countracted over time.___
 
 
 -----
-### `5. Advertising encourages customers to buy in quantity not in quality. To what extent do you agree or disagree?`
+### _Advertising encourages customers to buy in quantity not in quality. To what extent do you agree or disagree?_
 
  Living in the information age, people are bombarded with subtaintial daily doses of advertising in multiple media. The argument that advertising, with its overwhelming power, leads to consumers' impulsive purchase has been accepted by more and more people. Consumers are encouraged by advertisements to purchase products in quantity without paying heed to quality. This allegation is flawed, as far as I am concerned.
 
