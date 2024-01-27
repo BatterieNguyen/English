@@ -1,5 +1,3 @@
-# Sample
-
 ## `1. Some people think that killing animals for food is cruel, but others claim that animals are a necessary part of diet. What is your opinion?`
 
   It is a widespread practice that livestock is raised and butchered for human consumption. Although it has been condemned as cruelty to animals, a counter-argument is that meat is the necessity for people's health and well-being. To the best of my knowledge, meat is a regular part of the diet and there is no alternative to animal food sources.
