@@ -125,6 +125,7 @@ Vocabulary | Meaning | Side Note
 welfare    | the general health, happiness and safety of a person, an animal or a group | ~ well-being
 breach     | (n) a failure to do something that must be done by law | breach of sth
 tremendous | (adj) very great
-
+companion  | (n) a person or an animal that travels with you or spends a lot of time with you
+regard     | (v, often passive) to think about somebody/something in a particular way | regard sth/sb/yourself as sth
 
 
