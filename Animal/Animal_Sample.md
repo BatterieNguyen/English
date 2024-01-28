@@ -4,7 +4,7 @@ __Aspects of Animals__
 
 -----
 # Animal Protection
-## `1. Some people think that killing animals for food is cruel, but others claim that animals are a necessary part of diet. What is your opinion?`
+## _1. Some people think that killing animals for food is cruel, but others claim that animals are a necessary part of diet. What is your opinion?_
 
   It is a widespread practice that livestock is raised and butchered for human consumption. Although it has been condemned as cruelty to animals, a counter-argument is that meat is the necessity for people's health and well-being. To the best of my knowledge, meat is a regular part of the diet and there is no alternative to animal food sources.
 
@@ -50,7 +50,7 @@ Industrial farming | | >< Organic farming
 
 
 -----
-## `2. Some people strongly oppose animal experimentation, believing that it causes pain to animals, while some other people consider it necessary. What is your opinion?`
+## _2. Some people strongly oppose animal experimentation, believing that it causes pain to animals, while some other people consider it necessary. What is your opinion?_
   Perhaphs, no subject in the moral cmmunity is as controversial as animal testing. Animals, many people believe, merit more humane treatment. when animal-based experiments hav long been the center of criticism, I am of the opinion that such experiments are essential to both the well-being of human beings and that of animals.
 
   There is little doubt, first of all, that most of the animal-based experiments are conducted for the development of technology and to date, there is little chance of finding satisfying substitutions for animals. Animals are used mainly because they bear a close resemblance to humans, either in behavior or in cell structure. The respond to external disturbaces, such as electrical shock, nearly in the same manner as humans do. There is much evidence that most of what peope know about themselves, including pain, stress, reproduction, and nutrition, is based on findings of animal-based experiments. Animal testing proves one of the main approaches to predict the risk when drugs or other products are used on humans.
@@ -73,7 +73,7 @@ vivisectin  | (n) the practice of doing experiments on live animals for medical 
 veterinary  | (adj) connected with caring for the health of animals | veterinary medicine/ science
 
 -----
-## `3. Some people hold that we should spend money and time on the protection of wild animals while others suggest that the money should be spent on populations living in the poorest areas of the world. What is your opinion?`
+## _3. Some people hold that we should spend money and time on the protection of wild animals while others suggest that the money should be spent on populations living in the poorest areas of the world. What is your opinion?_
 
   In these years, animal protection has become a subject of ongoing scientific research and an issue of concern. People take different views toward the enormous spending required by wildlife conservation. It is suggested that the spending should be diverted to helping human populations, especially those living below poverty line, because human life is more valuable than animal life. In my opinion, the investment in animal conservation is worthwhile.
 
@@ -96,23 +96,36 @@ demise     | the end or failure of an institution, an idea, a company, etc.
 pollinate  | to put pollen into a flower or plant so that it produces seeds
 
 -----
-## `4. Far too little has been done to prevent animals and plants from dying out, although people have noticed this problem for a long time. Why have people failed to improve this situation? What are your suggestions?`
+## _4. Far too little has been done to prevent animals and plants from dying out, although people have noticed this problem for a long time. Why have people failed to improve this situation? What are your suggestions?_
 
-  Nowadays, the progressive extinction of living species on the planet, either animals or plants, as arisen as a big environmental challenge, according to many scientists and researchers. Despite the growing concern on this issue, little progress has been made in this field. There are some factors that account for why this happended. In my opinion, this situation can be remedied, provided that some reasonable steps are taken.
+  Nowadays, the progressive extinction of living species on the planet, either animals or plants, has arisen as a big environmental challenge, according to many scientists and researchers. Despite the growing concern on this issue, little progress has been made in this field. There are some factors that account for why this happended. In my opinion, this situation can be remedied, provided that some reasonable steps are taken.
 
-  The sharp fall in living species is first attributed to people's continued and heavy reliance on them for their own interests. An age-old tradition is that animals are raised, bred, and fed for human use. For example, laboratory animals, owrking animals, and sport animals have been used for economic reasons or to fulfill different tasks throughout much of human history. The meat of rare animals is regarded as a delicacy in some countries, for example, whale meat in Japan. When it comes to plants, over-logging, over-grazing and soil erosion are the root causes of the dwindling vegetatin. Over-utilization of living species has made many animals and plants face extinction risk.
+  The sharp fall in living species is first attributed to people's continued and heavy reliance on them for their own interests. An age-old tradition is that animals are raised, bred, and fed for human use. For example, laboratory animals, working animals, and sport animals have been used for economic reasons or to fulfill different tasks throughout much of human history. The meat of rare animals is regarded as a delicacy in some countries, for example, whale meat in Japan. When it comes to plants, over-logging, over-grazing and soil erosion are the root causes of the dwindling vegetatin. Over-utilization of living species has made many animals and plants face extinction risk.
 
-  Another reason cited to explain this is that few people take the mass extinction of species seriously. For example, fur is desired and pursued as a fashionable sstatus symbol in many countries, even in those countries where people are known for their environmental concern, such as New Zealand, Canada, and Australia. Barely have buyers realised that their purchase decisions will encourage the fur business to further anima slaughter. Rainforest destruction is another example. Despite strong opposition to lumber harvesting, this problem continues simply because people have an ever-growing appetite for land to live on, such as buying luxury properties in the country, and wood products to consume, such as furniture). Human's pursuit of comfort and enjoyment has long been justifid and condoned, even though the pursuit is at the expense of other species on the planet.
+  Another reason cited to explain this is that few people take the mass extinction of species seriously. For example, fur is desired and pursued as a fashionable sstatus symbol in many countries, even in those countries where people are known for their environmental concern, such as New Zealand, Canada, and Australia. Barely have buyers realised that their purchase decisions will encourage the fur business to further anima slaughter. Rainforest destruction is another example. Despite strong opposition to lumber harvesting, this problem continues simply because people have an ever-growing appetite for land to live on, such as buying luxury properties in the country, and wood products to consume, such as furniture). Human's pursuit of comfort and enjoyment has long been justified and condoned, even though the pursuit is at the expense of other species on the planet.
 
   From what has been discussed, it is clear that lack of awareness and over-reliance on natural resources are the main reasons why species are being pushed closer to the brink of extinction. Humane education represent a long-term commitment and will help raise a generation that has a real knowledge of environment protection and stays alert to the risk of animal exploitation and ecological degradation. In addition, it is imperative to carefully measure and control any activity that is likely to pose a threat on the survial species. Decision makers and individual citizens alike should take into consideration the impacts of their decisions and behaviors on living species. It is important to realise that preservation of living species is not sentimental, but essential to the well-being of humankind.
 
 
 Vocabulary | Meaning | Side Note
 ---------- | ------- | ---------
+arise      | (v, intransitive, rather formal) especially of a problem or a difficult situation to happen; to start to exist
+remedy     | (n/v) a way of dealing with or improving an unpleasant or difficult situation; to correct or improve something
+age-old    | (adj) having existed for a very long time
+delicacy   | (n, countable) a type of food considered to be very special in a particular place
+log        | (v) to cut down trees in a forest for their wood
+graze      | (v, transitive) to put cows, sheep, etc. in a field so that they can eat the grass there
+drindle    | (v) to become gradually less or smaller | (adj) dwindling
+utilization | (n) the act of using something, especially for a practical purpose | (v) utilize
+barely      | (adv) in a way that is just possible but only with difficulty
+condone     | (v) to accept behaviour that is morally wrong or to treat it as if it were not serious | condone sth/ sb doing sth
+imperative  | (adj, formal, not usually before noun) very important and needing immediate attention or action
+alike       | (adv) in a very similar way
+sentimental | (adj) connected with your emotions, rather than reason
 
 -----
 # Pet Raising
-## `Discuss the arguments for and against raising pets`
+## _1. Discuss the arguments for and against raising pets_
 
   In these years, animal wellfare has become a subject of controversy and it has been argued that animals should not be regarded as property by human beings or used against their own best interests. When pet raising has become a way of life in many societies around the world, it has, on the other hand, raised the question of whether it is a breach of animal rights. Below are some arguments concerning pet ownership.
 
