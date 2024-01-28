@@ -114,7 +114,7 @@ Vocabulary | Meaning | Side Note
 
   Pet animals are known for their loyalty and playful characteristics and belived to have apositive effect on the health of their owners. THe pressures of modern lifestyles are tremendous. Compared to previous generations, people are more likely to live independently and away from their families at the present time. Adopting a pet animal as a companion can give quality to the owner's life, and help reduce stress and blood pressure. It is also regarded as a solution to the feeling of isolation and loneliness. These two facts are combined to justify why there are an increasing number of people now depending on pet animals as companion or even a therapy.
 
-  Raising pets benefits pets as well. Providing companionship and giving pleasure to their owners, pets receive loing care and attention in return. Some might argue that holding a pet is unnatural, because pet animals would lose their original way of life. However, peple should meanwhilerecognize that some animals are unfitted to the wild environment. It is normally wrong that people force animals to struggle with food, clean water and other necessities in the wild environment.
+  Raising pets benefits pets as well. Providing companionship and giving pleasure to their owners, pets receive loving care and attention in return. Some might argue that holding a pet is unnatural, because pet animals would lose their original way of life. However, peple should meanwhile recognize that some animals are unfitted to the wild environment. It is normally wrong that people force animals to struggle with food, clean water and other necessities in the wild environment.
 
   Keeping an animal is therefore beneficial, but, notably, there is no guarantee that every pet lives a happy life. Ignorance of an animal's needs for space, exercise or contact with members of the same species, for instance, has been found as a common problem with raising pets. It should also be noted that many people adopt pets for wrong reasons, such as a statement of affluence or a status of symbol. They are very likely to abandon or even kill pets when their initial interest subsides. When holding pet animals has become popular, other problems will result, such as pollution caused by excess manure.
 
@@ -127,5 +127,8 @@ breach     | (n) a failure to do something that must be done by law | breach of 
 tremendous | (adj) very great
 companion  | (n) a person or an animal that travels with you or spends a lot of time with you
 regard     | (v, often passive) to think about somebody/something in a particular way | regard sth/sb/yourself as sth
-
+justify    | (v) to show that somebody/something is right or reasonable
+subside    | (v) If a condition subsides, it becomes less strong or extreme //  to become calmer, quieter or less intense
+manure     | (n) excrement from animals, esp. horses and cattle, often used as a fertilizer (material added to earth to help plants grow)
+rob of     | (phrasal verb, often passive to prevent somebody having something that they need or deserve
 
