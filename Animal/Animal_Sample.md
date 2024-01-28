@@ -129,6 +129,6 @@ companion  | (n) a person or an animal that travels with you or spends a lot of 
 regard     | (v, often passive) to think about somebody/something in a particular way | regard sth/sb/yourself as sth
 justify    | (v) to show that somebody/something is right or reasonable
 subside    | (v) If a condition subsides, it becomes less strong or extreme //  to become calmer, quieter or less intense
-manure     | (n) excrement from animals, esp. horses and cattle, often used as a fertilizer (material added to earth to help plants grow)
+manure     | (n) excrement from animals, esp. horses and cattle, often used as a fertilizer (material added to earth to help plants grow) | ~ dung (solid waste from animals, especially from large ones)
 rob of     | (phrasal verb, often passive to prevent somebody having something that they need or deserve
 
