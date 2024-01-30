@@ -23,3 +23,7 @@ It seems to be naive and short-sighted to emphasize that spending attention and 
 
 ### Outcome
 
+
+-----
+`It is a natural process for animal species to become extinct. There is no reason why people should try to prevent this from happening. To what extent do you agree or disagree?`
+
