@@ -1,4 +1,13 @@
 ## [We don’t need to save endangered species. Extinction is part of evolution.](https://www.washingtonpost.com/outlook/we-dont-need-to-save-endangered-species-extinction-is-part-of-evolution/2017/11/21/57fc5658-cdb4-11e7-a1a3-0d1e45a6de3d_story.html)
+  But the impulse to conserve for conservation’s sake has taken on an unthinking, unsupported, unnecessary urgency. Extinction is the engine of evolution, the mechanism by which natural selection prunes the poorly adapted and allows the hardiest to flourish. Species constantly go extinct, and every species that is alive today will one day follow suit. There is no such thing as an “endangered species,” except for all species. The only reason we should conserve biodiversity is for ourselves, to create a stable future for human beings. Yes, we have altered the environment and, in doing so, hurt other species. This seems artificial because we, unlike other life forms, use sentience and agriculture and industry. But we are a part of the biosphere just like every other creature, and our actions are just as volitional, their consequences just as natural. Conserving a species we have helped to kill off, but on which we are not directly dependent, serves to discharge our own guilt, but little else.
+
+Vocabulary | Meaning | Side note
+---------- | ------- | ---------
+impulse    | (n) a sudden strong wish or need to do something, without stopping to think about the results | impulse to do sth
+volitional | acting as a result of a decision or choice; done because someone has decided or chosen to do it
+the status quo ante | (n) the situation that existed before 
+little else         | a small amount of
+apprehension        | 
 
 
 -----
