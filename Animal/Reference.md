@@ -25,4 +25,4 @@ Precise numbers of each species used are difficult to ascertain, but animals use
 ## [Benefits of Biodiversity to Human Health and Well-being](https://www.nps.gov/articles/parksciencev31-n1_buttke_etal-htm.htm#:~:text=Humans%20depend%20upon%20biodiversity%20for,species%20con%20sume%20for%20survival.)
 
 -----
-## [Species Extinction: The Destructive Environmental Impact](https://purebreaks.com/species-extinction-destructive-environmental-impact/#:~:text=As%20we%20lose%20animals%20and,bees)%20cease%20to%20carry%20on.)
+## [Species Extinction: The Destructive Environmental Impact](https://purebreaks.com/species-extinction-destructive-environmental-impact/#:~:text=As%20we%20lose%20animals%20and,bees)
