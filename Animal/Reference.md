@@ -16,3 +16,11 @@
 ## [Cosmetic Animal Testing Is Cruel – But There Are Alternatives](https://sentientmedia.org/animal-testing-cosmetics/)
 
 Precise numbers of each species used are difficult to ascertain, but animals used to test the safety of cosmetics include rabbits, guinea pigs, mice, rats and hamsters. There is little scientific basis for these species being used;  the animals are often selected instead for their practicality. These animals breed easily, have short gestation periods and therefore reproduce at a rapid rate. They are also cheap to maintain in a laboratory environment, and because they are prey species, are easy for researchers to handle during experiments.
+
+------
+## [Why is biodiversity important?](https://royalsociety.org/topics-policy/projects/biodiversity/why-is-biodiversity-important/?fbclid=IwAR2-zC2rkkY5tjd-R7NO8RybdRyfd2r6ckz_5Pn1lTls_p4JLohjCz2hIPs#:~:text=Biodiversity%20is%20essential%20for%20the,also%20value%20nature%20of%20itself)
+
+
+-----
+## [Benefits of Biodiversity to Human Health and Well-being](https://www.nps.gov/articles/parksciencev31-n1_buttke_etal-htm.htm#:~:text=Humans%20depend%20upon%20biodiversity%20for,species%20con%20sume%20for%20survival.)
+
