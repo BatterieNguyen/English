@@ -25,7 +25,7 @@ __Aspects of Animals__
 Vocabulary | Meaning | Side Note
 ---------- | ------- | ---------
 livestock  | the animals kept on a farm, for example cows or sheep
-pultry     | chickens, ducks and geese, kept for their meat or eggs
+poultry     | chickens, ducks and geese, kept for their meat or eggs
 well-being | general health and happiness | emotional/physical/psychological well-being // a sense of well-being 
 digital well-being | the careful use of technology and the internet in a way that does not harm the user's mental or physical health
 foodborne illness  | caused by contamination of food and occur at any stage of the food production, delivery and consumption chain
