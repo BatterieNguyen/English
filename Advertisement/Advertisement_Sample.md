@@ -4,7 +4,7 @@ __Aspects of Advertisement__
 -----
 # Advertisement in Society
 
-## _The high sales of popular consumer good reflect the power of advertisisng but not the read need of the society where such products are sold. To What extent do you agree or disagree?_
+## `_The high sales of popular consumer good reflect the power of advertisisng but not the read need of the society where such products are sold. To What extent do you agree or disagree?_`
 
  Advertising is well-known as a method of promotion, a method used by corporations to introduce their products and services to the market, attract the eye of consumers and increase sales. Crisis of advertising argue that advertising is the main drive of soaring sales of some products and services, inducing consumers to purchase what they do not actually need in their daily lives. This contention is self-evident.
 
