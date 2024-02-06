@@ -41,10 +41,4 @@ the rise of perfection over the realism → [according to the advertisers' wish 
 -----
 ## _`The society would benefit from a ban on all forms of advertising because it serves no useful purpose, and can even be damaging. Do you agree or disagree?`_
 
-There is a school of thought that all advertising platfoms should be restricted as the belief that the society would gain no benefit from them has been popularized. In my opinion, I stand against this point of view as positive effects of advertising could be unseen by the public.
-
-The first objection to this view point is that advertisements means maintain the economic well-being of society. By conveying marketing information to the targeted audiences, advertising can increase the sales of manufactured goods or services, and thereby, first promising the sustainability of business, later securing the employment.
-
-Another justification is that advertising performs as a powerful tool supporting consumers in making better purchase-decision. It is obvious to notice that people are informed about available alternatives in the market and some of them are highlighted with adveanced features through advertisings videos or posters. Aligned with their personal buying experiences, consumers, therefore, may become more cautious and easily distinguish inferior products from high quality ones. 
-
 -----
