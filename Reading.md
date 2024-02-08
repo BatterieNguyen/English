@@ -9,6 +9,12 @@ put off sth | (phrasal verb) to delay or move an activity to a later time, or to
 there is a lot to be said for sth | said to mean that something has advantages
 it is a matter of fact            | ~ it is true
 
+#### Passage 2 - FLUORIDATION OF PUBLIC WATER SUPPLIES
+Vocabulary | Meaning | Side Note
+---------- | ------- | ---------
+faint      | (adj) not strong or clear; slight
+mishap     | (n) bad luck, or an unlucky event or accident
+
 # Baby Boomer
 
 # Colorism
