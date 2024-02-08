@@ -1,6 +1,0 @@
-# Baby Boomer
-
-# Colorism
-
-# Ecotourism
-
