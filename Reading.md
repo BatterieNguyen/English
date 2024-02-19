@@ -15,6 +15,19 @@ Vocabulary | Meaning | Side Note
 faint      | (adj) not strong or clear; slight
 mishap     | (n) bad luck, or an unlucky event or accident
 
+#### Passage 3 - Employment, Underemployment and Unemployment
+Vocabulary | Meaning | Side Note
+---------- | ------- | ---------
+misalignment | 
+characterise | 
+entrenched   | (adj) fixed or have existed for so long that they cannot be changed
+intractanle  | (adj) very difficult to deal with
+redundant    | (adj) (of a person) without a job because there is no more work available for you in a company
+perpetuate   | (v) to make something such as a bad situation, a belief, etc. continue for a long time
+be riddled with sth | (idiom) to be full of something, especially something bad or unpleasant
+precariousness | the state of not being safe or certain; the state of being dangerous
+pertinent      | (adj) appropriate to a particular situation
+
 # Baby Boomer
 
 # Colorism
