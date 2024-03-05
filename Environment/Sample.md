@@ -4,12 +4,13 @@
 
 AGREE → [opinion] there is no economic target that can be attained without some sacrifice made to the environment.
 
- Taking environmental consequences seriously is beneficial for businesses with large or small scales → it can impel them to improve their production lines, make optimal use of materials and resources and increase the profit margin. [For instance] the adoption of environmentally-friendly equipment is associated with reducing waste, minimizing pollution, and decelerating the depreciation rate of machinery.
-reduce businesses’ expenditure in compliance with environmental standards
-boosting the loyalty of employees → [Ex] who have an appreciation for the safety and comfort of their working environment.
-a concrete link between environmental awareness of business and their favorable impression on the general public → adhering to the environmental standards can build up word of mouth reputation and trigger sales → [past] when asking to take actions to make their products less environment-damaging, some business was worried about the proportional rise in operational costs → [however] their attitudes are now subject to modification, as the expense of improving equipment is temporary, and can be paid off by forthcoming profits → More customers are keen on products made from an environmentally conscious business, in a belief that its products are free of pollutants
-=> [to a broader extent/ in return] when the business has become more profitable, more money will be available for revamping the environment → probing the core of environment-related issues, the possibility of incorporating environmentally friendly practices will occur when enough fund has been raised and alternative livelihood have been explored → [Ex] Illegal logging centralizes in undeveloped countries every year where people are unable to find a job → [In comparison] economically-developed countries show more willingness to invest in forest conservation, as their industries rely less on natural resources and have become service-oriented
+a concrete link between environmental awareness of business and their favorable impression on the general public
 
+
+
+Vocabulary | Meaning | Side Note
+---------- | ------- | ---------
+complementary | two people or things are different but together form a useful or attractive combination of skills, qualities or physical features | 
 
 
 ## _2. Many people believe that human society has developed into a throw-away society, which is filled with plastic bags and rubbish. What are the causes and solutions?_
@@ -23,22 +24,25 @@ plastic bags, rubbish
 durable materials, non-recyclable materials
 Industrial waste (heavy metal, chemicals, plastic)
 
+CAUSE
+Despite its sizable influence, many citizens have not yet realized the seriousness of this issue.
+Economic advantage
+The problem of Waste disposal exists due to people’s ever-growing demand for manufactured goods
+The increment in the garbage is a natural result of social and economic development → Unethical businesses are the main creators of industrial waste (heavy metal, chemicals, plastic) → people’s quest for a better living standard gives them incentives to manufacture a rich variety of consumer goods | disregard the potential impact on the environment.
+This practice can date back to the earliest days of the industrial revolution → produce enormous waste that is unable to be recycled | cause an environmental disaster.
+use virgin materials, rather than recyclable materials in the course of production.
+Awareness
+Slow response to the impact of this problem on the environment
+Low awareness of opportunities to reduce, reuse, and recycle waste → do not have a firm stand against over-consumption and excessive production of disposable items
+not environmentally conscious → dispose of wastes whenever and wherever they consider convenient
+=> That is why many communities are facing a particularly difficult position in waste treatment.
+
+
 
 => Tackling this problem depends on individuals’ efforts to keep the waste to a minimum but also on businesses’ attempts to optimize their manufacture and reduce the inputs.
-A KEY TO PROTECT THE ENVIRONMENT: RESPONSIBLE CONSUMPTION
-https://www.iberdrola.com/environment/actions-that-protect-the-environment?fbclid=IwAR0VKJMfljFj8jKdNeoEbsX7Gljv-PkhplkImmpf_ky03N2oianaCaKw5CA
 
-How can people take care of environmental issues?
-Topic: Since environmental problems are becoming hotter and greater for people to handle. However, multi-step should be taken to minimize those issues
-Main I: FOOD CONSUMPTION, adjusting the eating habits of people 
-Concept: people should consume less products like red meat or fish
-reason: those kind of industry may lead to the increase in the greenhouse gas emission
-behavior: if we can reduce the demand for consuming the products of those industrial stock farming, people can cause less harm for the environment
-solution: instead, if more agricultural land are used for growing vegetables → Not only do people can minimize the risk of environmental issues, but also improve their health
-Main II: encourage citizens to use less paper bags.
-Reason: The materials needed to manufacture a paper bag are a large amount of water and wood which emit harmful/ toxic gases into the atmosphere and use chemicals that pollute water and cause damage to the ecosystem. 
-solution: A good substitute for paper bags are long-lasting, washable and reusable cotton bags.
 
+-------------------------------------------
 ## _3. Climate change is a big environmental problem that has become critical in the last couple of decades. Some people claim that humans should stop burning fossil fuels and use only alternative energy resources, such as wind and solar power. Others say that oil, gas and coal are essential for many industries, and not using them will lead to economic collapse. Discuss both views and offer your opinions_
 
 Climate change has engendered valid concerns in recent decades. To address the current situation, some people believe that fossil fuels should be completely replaced by alternative energy, while others disagree on the grounds that traditional energy resources are vital to various industries and detrimental consequences can be caused should the use of it be abolished. This essay will discuss both views and explain why I side with the latter.
@@ -49,3 +53,7 @@ Vital industries, such as transportation and manufacture of consumer goods, woul
 
 In conclusion, while it is true that the use of fossil fuels contributes to the accelerating change in the Earth’s climate, it would be imprudent to force the abolition of traditional energy resources as alternative energy is yet to be able to carry our economy. The best solution available is a flexible hybrid utilization of energy resources that could give us the best of both worlds.
 
+-------------------------------------------
+## _4. It is said that the best way to solve the world's environmental problems is to increase the price of fuel. To what extent do you agree or disagree?_
+
+The burning if fossil fuels is universally recognisd as the largest source of emissions of greenhouse gases in the world and one of the key factors responsible for global warming. WHen there is a growing concern about the destructive effects of global warming and other environmental problems, some people argue that the best approach to deal with such problems is to increase fuel prices, assuming that it will lead directly to the drop in car use. This approach is productive to some extent, but some other measures should be given equal consideration.
