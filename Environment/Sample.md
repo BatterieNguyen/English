@@ -1,4 +1,4 @@
-Some industrialized countries have serious environmental problems. The damage to the environment is an inevitable result when a country tends to improve its standard of living. To what extent do you agree or disagree?
+## _1.Some industrialized countries have serious environmental problems. The damage to the environment is an inevitable result when a country tends to improve its standard of living. To what extent do you agree or disagree?_
 
 [opinion] there are a couple of complementary components if operated properly → economic development and environmental protection are not inimical, but complementary. They are intertwined and can be promoted simultaneously. 
 
@@ -12,7 +12,7 @@ a concrete link between environmental awareness of business and their favorable 
 
 
 
-Many people believe that human society has developed into a throw-away society, which is filled with plastic bags and rubbish. What are the causes and solutions?
+## _2. Many people believe that human society has developed into a throw-away society, which is filled with plastic bags and rubbish. What are the causes and solutions?_
 
 people ~ citizens
 Unethical business
@@ -22,31 +22,6 @@ low/ inefficient progress in waste treatment
 plastic bags, rubbish
 durable materials, non-recyclable materials
 Industrial waste (heavy metal, chemicals, plastic)
-
-
-CAUSE
-Despite its sizable influence, many citizens have not yet realized the seriousness of this issue.
-Economic advantage
-The problem of Waste disposal exists due to people’s ever-growing demand for manufactured goods
-The increment in the garbage is a natural result of social and economic development → Unethical businesses are the main creators of industrial waste (heavy metal, chemicals, plastic) → people’s quest for a better living standard gives them incentives to manufacture a rich variety of consumer goods | disregard the potential impact on the environment.
-This practice can date back to the earliest days of the industrial revolution → produce enormous waste that is unable to be recycled | cause an environmental disaster.
-use virgin materials, rather than recyclable materials in the course of production.
-Awareness
-Slow response to the impact of this problem on the environment
-Low awareness of opportunities to reduce, reuse, and recycle waste → do not have a firm stand against over-consumption and excessive production of disposable items
-not environmentally conscious → dispose of wastes whenever and wherever they consider convenient
-=> That is why many communities are facing a particularly difficult position in waste treatment.
-
-
-
-SOLUTION
-It requires the spontaneous commitment of both businesses and citizens.
-Manufacturing
-minimize its generation → [primarily because] the more waste people produce → more waste they have to cope with.
-Law
-regulate corporation behaviors → make their operations environmentally friendly
-Awareness
-
 
 
 => Tackling this problem depends on individuals’ efforts to keep the waste to a minimum but also on businesses’ attempts to optimize their manufacture and reduce the inputs.
@@ -64,7 +39,7 @@ Main II: encourage citizens to use less paper bags.
 Reason: The materials needed to manufacture a paper bag are a large amount of water and wood which emit harmful/ toxic gases into the atmosphere and use chemicals that pollute water and cause damage to the ecosystem. 
 solution: A good substitute for paper bags are long-lasting, washable and reusable cotton bags.
 
-Topic: Climate change is a big environmental problem that has become critical in the last couple of decades. Some people claim that humans should stop burning fossil fuels and use only alternative energy resources, such as wind and solar power. Others say that oil, gas and coal are essential for many industries, and not using them will lead to economic collapse. Discuss both views and offer your opinions
+## _3. Climate change is a big environmental problem that has become critical in the last couple of decades. Some people claim that humans should stop burning fossil fuels and use only alternative energy resources, such as wind and solar power. Others say that oil, gas and coal are essential for many industries, and not using them will lead to economic collapse. Discuss both views and offer your opinions_
 
 Climate change has engendered valid concerns in recent decades. To address the current situation, some people believe that fossil fuels should be completely replaced by alternative energy, while others disagree on the grounds that traditional energy resources are vital to various industries and detrimental consequences can be caused should the use of it be abolished. This essay will discuss both views and explain why I side with the latter.
 
