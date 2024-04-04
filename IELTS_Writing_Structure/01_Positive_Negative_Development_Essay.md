@@ -4,6 +4,10 @@
   
   Despite the negativity mentioned above, the declining absence of communal dining actually engenders a greater flexibility for individuals. Eating alone is less time-consuming, allowing individuals to freely manage their own schedule to prioritize their personal responsibility of work or study, and choose to have meals at a more suitable time. To a broader extent, having a meal with co-workers would serve as a social activity in which individuals can get involved in to develop their own fruitful working partnerships. If it wasis not the case, individuals would/could beare more available to try a diverse food appetite or follow a special dietary restriction regarding personal preference. These elements could be absent when they get involved themselves into the constraint of a fixed mealtime or an obligated feeling to conform to the general appetite within family members.
 
+Sentence | Example
+-------- | -------
+Topic Stence | perhaps one minor negative
+
 ### Some universities now offer their courses on the Internet so that people can study online. Is this a positive or negative development?
   
   Internet-based learning is widely available for people to gain access to higher education programs. Despite the downside presented, I would argue that there are far more benefits.
