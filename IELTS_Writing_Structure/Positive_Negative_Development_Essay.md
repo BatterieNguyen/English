@@ -13,3 +13,20 @@
  Despite the negativity mentioned above, online course setting actually engenders a greater convenience for individuals by eliminating the need to commute to physical campuses. This removes geographical barriers and saves valuable commuting time, particularly benefiting individuals belonging to ethnic groups or residing in remote areas with limited transportation access. If widely available, online courses are strongly recommended as a viable alternative to studying abroad, as they enable individuals to overcome financial constraints associated with the additional costs of living and overseas travel. In a broader extent, the absence of these obstacles is meant to the increase of intellectual standards, by facilitating fair accessibility to higher education on a global scale, and thereby fostering advancement and development of a nation.
 
   As mentioned above, while I am aware of the possible  disadvantages of online learning courses, I still consider it to be a positive development overall.
+
+
+### Some countries achieve international success by building specialized facilities to train top athletes instead of providing sports facilities that everyone can use. Is it a positive or negative development?
+
+### In many parts of the world, children are given more freedom than in the past. Is this a positive or negative development?
+
+### In the modern world, it is possible to shop, work and communicate online and live without any face-to-face contact with others. Is this a positive or negative development?
+
+### An increasing number of people are choosing plastic surgery. Why do people have operations to change the way they look? Do you think this is a positive or negative development?
+
+### More and more people no longer read newspapers or watch TV programs to get news. They get news about the world through the Internet. Is this a positive or negative development?
+
+### Advertisements are becoming more and more common in our everyday lives. Is it a positive or negative development? 
+### Nowadays celebrities earn more money than politicians. What are the reasons for this? Is it a positive or negative development?
+### Space travel has been possible for some time and some people believe that space tourism could be developed in the future. Do you think it is a positive or negative development?
+
+https://www.ieltsvietop.vn/blog/de-thi-ielts-writing-2023/
