@@ -8,6 +8,7 @@ Sentence | Example
 -------- | -------
 Topic Stence | perhaps one minor negative
 
+-----
 ### Some universities now offer their courses on the Internet so that people can study online. Is this a positive or negative development?
   
   Internet-based learning is widely available for people to gain access to higher education programs. Despite the downside presented, I would argue that there are far more benefits.
@@ -18,19 +19,30 @@ Topic Stence | perhaps one minor negative
 
   As mentioned above, while I am aware of the possible  disadvantages of online learning courses, I still consider it to be a positive development overall.
 
-
+-----
 ### Some countries achieve international success by building specialized facilities to train top athletes instead of providing sports facilities that everyone can use. Is it a positive or negative development?
 
+-----
 ### In many parts of the world, children are given more freedom than in the past. Is this a positive or negative development?
 
+-----
 ### In the modern world, it is possible to shop, work and communicate online and live without any face-to-face contact with others. Is this a positive or negative development?
 
+-----
 ### An increasing number of people are choosing plastic surgery. Why do people have operations to change the way they look? Do you think this is a positive or negative development?
 
+-----
 ### More and more people no longer read newspapers or watch TV programs to get news. They get news about the world through the Internet. Is this a positive or negative development?
 
+-----
 ### Advertisements are becoming more and more common in our everyday lives. Is it a positive or negative development? 
+
+-----
 ### Nowadays celebrities earn more money than politicians. What are the reasons for this? Is it a positive or negative development?
+
+-----
 ### Space travel has been possible for some time and some people believe that space tourism could be developed in the future. Do you think it is a positive or negative development?
+
+-----
 
 https://www.ieltsvietop.vn/blog/de-thi-ielts-writing-2023/
