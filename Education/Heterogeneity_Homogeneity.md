@@ -14,6 +14,7 @@ Auditory // visual // kinaesthetic learning styles
 Today contains insight necessary for a more effective tomorrow
 
 1. Mixed-ability
+
   a. to students with good academic performance
 * can learn from their friends who may be better than them in some areas/ fields (soft skills: public speaking, teamwork, art,) => become sophisticated.
 * A classroom is like a miniature society => talented students can learn to adapt to people with different abilities/ roles => become a well-rounded person who knows and respects others => part of a well-rounded education.
@@ -27,6 +28,7 @@ Today contains insight necessary for a more effective tomorrow
 * Schools are not just a place for academic learning but they also teach students how to become well-manner in society => students in these classes can learn how to cooperate with and respect each other => achieve social harmony.
 
 2. Streaming
+
   a. to teacher
 * can compile specially designed lessons for gifted talents | quickly go over basic theories to teach these students advanced parts of a lesson => provide more knowledge for gifted students => students can ave an even deeper understanding
 
