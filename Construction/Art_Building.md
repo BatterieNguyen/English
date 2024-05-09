@@ -72,7 +72,6 @@ __=> Cannot apply on a large scale__
 
 
 ### `Sample`
-
   Architeture is an integral part of every single culture. Accordingly, some people suggest that new buildings should be constructed with a classical style, in an effort to protect a nation's cultural identity. I agree with their recommendation that maintaining a nation's cultural identity is a priority.
 
   New constructions might not only cause direct damage to those existing aged buildings, which are central to a nation's culture, but also destroy the integrity of the cityscape, which characterizes a country. Over the past decades, there has been a growing recognition that architecture is an element that distinguishes one culture from another. That's why people are not surprised to see that buildings differ in styles from country to country. New constructions, if not aligned with the existing buildings, will impair the uniqueness of an architecture style, which has been widely regconized, studied and treasured by the world.
