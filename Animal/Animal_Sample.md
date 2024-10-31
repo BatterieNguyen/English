@@ -72,56 +72,6 @@ equivalent  | (n) a thing, amount, word, etc. that is equal in value, meaning or
 vivisectin  | (n) the practice of doing experiments on live animals for medical or scientific research
 veterinary  | (adj) connected with caring for the health of animals | veterinary medicine/ science
 
------
-## _3. Some people hold that we should spend money and time on the protection of wild animals while others suggest that the money should be spent on populations living in the poorest areas of the world. What is your opinion?_
-
-  In these years, animal protection has become a subject of ongoing scientific research and an issue of concern. People take different views toward the enormous spending required by wildlife conservation. It is suggested that the spending should be diverted to helping human populations, especially those living below poverty line, because human life is more valuable than animal life. In my opinion, the investment in animal conservation is worthwhile.
-
-  Animals, as a significant part of an ecosystem, have profound impacts on the sustainability of an ecosystem and on the well-being of humanity. All animals are connected in one way or another in food chains. For this reason, the demise of a species can lead to overpopulation or underpopulation of another species and then put this species at the verge of extinction. The natural balance will be disrupted and the ecosystem cannot be sustained. It would disable vegetation from purifying water, recycling nutrient and pollinating crops. We humans are eventually affected.
-
-  Another justification for animal protection is that animals play a significant role in the development of industries, as an important natural resource. People derive substances and materials from animals for different purposes. A typical example is that animals provide essential substances for drug-making . It is also very common that designers and engineers turn to wildlife for inspiration. For instance, the invention of water-proof clothing drew upon the research on sharks.
-
-  On account of those benefits, wildlife protection is a significant strategy that has far-reaching effects on the future of human. However, when implemented, this strategy should be adapted in different contexts. It should be noted that spending money simply on animals is not the approach that promises the best outcomes in all circumstance. For example, in those regions where inhabitants struggle with weak economies and have a few job sources, direct spending on any animal program would not stop people from hunting and trading animals for living. An alternative strategy is creating jobs or providing subsidies, lifting these regions out of poverty.
-
-  From what has been discussed , animals are key components of the whole natural order and have relevance to the sustainability of an ecosystem and the interests of humanity. Animal protection is a strategy that applies to the whole world, and might vary in different circumstances.
-
-
-Vocabulary | Meaning | Side Note
----------- | ------- | ---------
-divert     | (often passive) to make somebody/something change direction | be diverted (from something) (to/into/onto something)
-derive     | to come or develop from something | derive from sth/ be derived from something
-draw upon  | to use a supply of something that is available to you | draw on/upon something
-poverty    | | poverty line
-demise     | the end or failure of an institution, an idea, a company, etc.
-pollinate  | to put pollen into a flower or plant so that it produces seeds
-
------
-## _4. Far too little has been done to prevent animals and plants from dying out, although people have noticed this problem for a long time. Why have people failed to improve this situation? What are your suggestions?_
-
-  Nowadays, the progressive extinction of living species on the planet, either animals or plants, has arisen as a big environmental challenge, according to many scientists and researchers. Despite the growing concern on this issue, little progress has been made in this field. There are some factors that account for why this happended. In my opinion, this situation can be remedied, provided that some reasonable steps are taken.
-
-  The sharp fall in living species is first attributed to people's continued and heavy reliance on them for their own interests. An age-old tradition is that animals are raised, bred, and fed for human use. For example, laboratory animals, working animals, and sport animals have been used for economic reasons or to fulfill different tasks throughout much of human history. The meat of rare animals is regarded as a delicacy in some countries, for example, whale meat in Japan. When it comes to plants, over-logging, over-grazing and soil erosion are the root causes of the dwindling vegetatin. Over-utilization of living species has made many animals and plants face extinction risk.
-
-  Another reason cited to explain this is that few people take the mass extinction of species seriously. For example, fur is desired and pursued as a fashionable sstatus symbol in many countries, even in those countries where people are known for their environmental concern, such as New Zealand, Canada, and Australia. Barely have buyers realised that their purchase decisions will encourage the fur business to further anima slaughter. Rainforest destruction is another example. Despite strong opposition to lumber harvesting, this problem continues simply because people have an ever-growing appetite for land to live on, such as buying luxury properties in the country, and wood products to consume, such as furniture). Human's pursuit of comfort and enjoyment has long been justified and condoned, even though the pursuit is at the expense of other species on the planet.
-
-  From what has been discussed, it is clear that lack of awareness and over-reliance on natural resources are the main reasons why species are being pushed closer to the brink of extinction. Humane education represent a long-term commitment and will help raise a generation that has a real knowledge of environment protection and stays alert to the risk of animal exploitation and ecological degradation. In addition, it is imperative to carefully measure and control any activity that is likely to pose a threat on the survial species. Decision makers and individual citizens alike should take into consideration the impacts of their decisions and behaviors on living species. It is important to realise that preservation of living species is not sentimental, but essential to the well-being of humankind.
-
-
-Vocabulary | Meaning | Side Note
----------- | ------- | ---------
-arise      | (v, intransitive, rather formal) especially of a problem or a difficult situation to happen; to start to exist
-remedy     | (n/v) a way of dealing with or improving an unpleasant or difficult situation; to correct or improve something
-age-old    | (adj) having existed for a very long time
-delicacy   | (n, countable) a type of food considered to be very special in a particular place
-log        | (v) to cut down trees in a forest for their wood
-graze      | (v, transitive) to put cows, sheep, etc. in a field so that they can eat the grass there
-drindle    | (v) to become gradually less or smaller | (adj) dwindling
-utilization | (n) the act of using something, especially for a practical purpose | (v) utilize
-barely      | (adv) in a way that is just possible but only with difficulty
-condone     | (v) to accept behaviour that is morally wrong or to treat it as if it were not serious | condone sth/ sb doing sth
-imperative  | (adj, formal, not usually before noun) very important and needing immediate attention or action
-alike       | (adv) in a very similar way
-sentimental | (adj) connected with your emotions, rather than reason
 
 -----
 # Pet Raising
