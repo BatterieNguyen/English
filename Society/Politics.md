@@ -1,1 +1,0 @@
-### Sample 1 - THroughout history, male leaders often made the society more violent and conflicting. If women governed the world, the world would be more peaceful. To what extent do you agree or disagree?
